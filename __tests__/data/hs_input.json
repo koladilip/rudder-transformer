@@ -52,7 +52,7 @@
     "destination": {
       "Config": {
         "***REMOVED***,
-        "hubId": "6405167"
+        "hubID": "6405167"
       },
       "Enabled": true
     }
@@ -108,7 +108,7 @@
     "destination": {
       "Config": {
         "***REMOVED***,
-        "hubId": "6405167"
+        "hubID": "6405167"
       },
       "Enabled": true
     }
@@ -157,7 +157,7 @@
     "destination": {
       "Config": {
         "***REMOVED***,
-        "hubId": "6405167"
+        "hubID": "6405167"
       },
       "Enabled": true
     }
