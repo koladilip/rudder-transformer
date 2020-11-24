@@ -3,6 +3,7 @@
     "destination": {
       "Config": {
         "***REMOVED***,
+        "***REMOVED***,
         "prefixProperties": true,
         "useNativeSDK": false
       },
@@ -67,6 +68,7 @@
   {
     "destination": {
       "Config": {
+        "***REMOVED***,
         "***REMOVED***,
         "prefixProperties": true,
         "useNativeSDK": false
@@ -134,6 +136,7 @@
     "destination": {
       "Config": {
         "***REMOVED***,
+        "***REMOVED***,
         "prefixProperties": true,
         "useNativeSDK": false
       },
@@ -193,6 +196,7 @@
   {
     "destination": {
       "Config": {
+        "***REMOVED***,
         "***REMOVED***,
         "prefixProperties": true,
         "useNativeSDK": false
@@ -259,6 +263,7 @@
     "destination": {
       "Config": {
         "***REMOVED***,
+        "***REMOVED***,
         "prefixProperties": true,
         "useNativeSDK": false
       },
@@ -315,6 +320,7 @@
   {
     "destination": {
       "Config": {
+        "***REMOVED***,
         "***REMOVED***,
         "prefixProperties": true,
         "useNativeSDK": false
@@ -376,6 +382,7 @@
   {
     "destination": {
       "Config": {
+        "***REMOVED***,
         "***REMOVED***,
         "prefixProperties": true,
         "useNativeSDK": false
@@ -443,6 +450,7 @@
     "destination": {
       "Config": {
         "***REMOVED***,
+        "***REMOVED***,
         "prefixProperties": true,
         "useNativeSDK": false
       },
@@ -504,6 +512,7 @@
   {
     "destination": {
       "Config": {
+        "***REMOVED***,
         "***REMOVED***,
         "prefixProperties": true,
         "useNativeSDK": false
@@ -599,6 +608,7 @@
   {
     "destination": {
       "Config": {
+        "***REMOVED***,
         "***REMOVED***,
         "prefixProperties": true,
         "useNativeSDK": false
@@ -702,6 +712,7 @@
     "destination": {
       "Config": {
         "***REMOVED***,
+        "***REMOVED***,
         "prefixProperties": true,
         "useNativeSDK": false
       },
@@ -802,6 +813,7 @@
   {
     "destination": {
       "Config": {
+        "***REMOVED***,
         "***REMOVED***,
         "prefixProperties": true,
         "useNativeSDK": false
@@ -904,6 +916,7 @@
     "destination": {
       "Config": {
         "***REMOVED***,
+        "***REMOVED***,
         "prefixProperties": true,
         "useNativeSDK": false
       },
@@ -967,6 +980,7 @@
   {
     "destination": {
       "Config": {
+        "***REMOVED***,
         "***REMOVED***,
         "prefixProperties": true,
         "useNativeSDK": false
@@ -1029,9 +1043,14 @@
     "destination": {
       "Config": {
         "***REMOVED***,
+        "***REMOVED***,
         "prefixProperties": true,
         "useNativeSDK": false,
-        "groupKey": "page"
+        "groupKeySettings": [
+          {
+            "groupKey": "company"
+          }
+        ]
       },
       "DestinationDefinition": {
         "DisplayName": "Kiss Metrics",
@@ -1082,6 +1101,9 @@
         "title": "",
         "url": "http://localhost/tests/html/index2.html"
       },
+      "traits": {
+        "company": "testComp"
+      },
       "receivedAt": "2020-01-24T11:59:02.403+05:30",
       "request_ip": "[::1]:53708",
       "sentAt": "2020-01-24T06:29:02.359Z",
@@ -1094,10 +1116,15 @@
     "destination": {
       "Config": {
         "***REMOVED***,
-        "prefixproperties": true,
+        "***REMOVED***,
+        "prefixProperties": true,
         "usenativesdk": false,
         "dataResidency": "eu",
-        "groupKey": "page"
+        "groupKeySettings": [
+          {
+            "groupKey": "company"
+          }
+        ]
       },
       "destinationdefinition": {
         "displayname": "kiss metrics",
@@ -1141,6 +1168,9 @@
       },
       "messageid": "dd266c67-9199-4a52-ba32-f46ddde67312",
       "originaltimestamp": "2020-01-24t06:29:02.358z",
+      "traits": {
+        "company": "testComp"
+      },
       "properties": {
         "path": "/tests/html/index2.html",
         "referrer": "",
@@ -1159,6 +1189,7 @@
   {
     "destination": {
       "Config": {
+        "***REMOVED***,
         "***REMOVED***,
         "prefixProperties": true,
         "dataResidency": "eu",
@@ -1256,6 +1287,7 @@
     "destination": {
       "Config": {
         "***REMOVED***,
+        "***REMOVED***,
         "prefixProperties": true,
         "dataResidency": "eu",
         "useNativeSDK": false
@@ -1332,6 +1364,7 @@
     "destination": {
       "Config": {
         "***REMOVED***,
+        "***REMOVED***,
         "apiSecret": "some_api_secret",
         "prefixProperties": true,
         "dataResidency": "eu",
@@ -1377,7 +1410,7 @@
           "wifi": true
         },
         "os": {
-          "name": "Android",
+          "name": "iOS",
           "version": "8.1.0"
         },
         "screen": {
@@ -1410,6 +1443,7 @@
   {
     "destination": {
       "Config": {
+        "***REMOVED***,
         "***REMOVED***,
         "prefixProperties": true,
         "useNativeSDK": false
@@ -1475,6 +1509,7 @@
     "destination": {
       "Config": {
         "***REMOVED***,
+        "***REMOVED***,
         "prefixProperties": true,
         "useNativeSDK": false
       },
@@ -1533,4 +1568,3 @@
     }
   }
 ]
-
