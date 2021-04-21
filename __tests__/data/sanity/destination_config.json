@@ -1,0 +1,20 @@
+{
+  "active_campaign": {
+    "config": {
+      "processor": {
+        "Config": {
+          "***REMOVED***,
+          "apiUrl": "https://active.campaigns.rudder.com",
+          "actid": "476550467",
+          "***REMOVED***
+        }
+      }
+    }
+  },
+  "clevertap": {
+    "config": {
+      "processor": {},
+      "router": {}
+    }
+  }
+}

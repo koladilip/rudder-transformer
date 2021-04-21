@@ -1,3 +1,52 @@
-{
-
-}
+[
+  {
+    "version": "1",
+    "type": "REST",
+    "method": "POST",
+    "endpoint": "https://active.campaigns.rudder.com/api/3/contact/sync",
+    "headers": {
+      "Content-Type": "application/json",
+      "***REMOVED***
+    },
+    "params": {},
+    "body": {
+      "JSON": {
+        "contact": {
+          "email": "manashi@gmail.com",
+          "phone": 9090909000,
+          "firstName": null,
+          "lastName": null
+        },
+        "***REMOVED***
+      },
+      "XML": {},
+      "FORM": {}
+    },
+    "files": {}
+  },
+  {
+    "version": "1",
+    "type": "REST",
+    "method": "POST",
+    "endpoint": "https://active.campaigns.rudder.com/api/3/contact/sync",
+    "headers": {
+      "Content-Type": "application/json",
+      "***REMOVED***
+    },
+    "params": {},
+    "body": {
+      "JSON": {
+        "contact": {
+          "email": "testkolkata@rudderlabs.com",
+          "phone": "570-690-4150",
+          "firstName": "Sajal",
+          "lastName": "Mohanta"
+        },
+        "***REMOVED***
+      },
+      "XML": {},
+      "FORM": {}
+    },
+    "files": {}
+  }
+]
