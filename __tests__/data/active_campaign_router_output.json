@@ -1,0 +1,83 @@
+[
+  {
+    "batchedRequest": {
+      "body": {
+        "XML": {},
+        "FORM": {},
+        "JSON": {
+          "***REMOVED***,
+          "contact": {
+            "email": "jamesDoe@gmail.com",
+            "firstName": "James",
+            "lastName": "Doe",
+            "phone": "92374162212"
+          }
+        }
+      },
+      "type": "REST",
+      "files": {},
+      "method": "POST",
+      "params": {},
+      "headers": {
+        "***REMOVED***,
+        "Content-Type": "application/json"
+      },
+      "version": "1",
+      "endpoint": "https://active.campaigns.rudder.com/api/3/contact/sync"
+    },
+    "metadata": [
+      {
+        "jobId": 2
+      }
+    ],
+    "batched": false,
+    "statusCode": 200,
+    "destination": {
+      "Config": {
+        "***REMOVED***,
+        "apiUrl": "https://active.campaigns.rudder.com",
+        "actid": "476550467",
+        "***REMOVED***
+      }
+    }
+  },
+  {
+    "batchedRequest": {
+      "body": {
+        "XML": {},
+        "FORM": {},
+        "JSON": {
+          "***REMOVED***,
+          "siteTrackingDomain": {
+            "name": "www.rudderlabs.com"
+          }
+        }
+      },
+      "type": "REST",
+      "files": {},
+      "method": "POST",
+      "params": {},
+      "headers": {
+        "***REMOVED***,
+        "Content-Type": "application/json"
+      },
+      "version": "1",
+      "endpoint": "https://active.campaigns.rudder.com/api/3/siteTrackingDomains"
+    },
+    "metadata": [
+      {
+        "jobId": 2
+      }
+    ],
+    "batched": false,
+    "statusCode": 200,
+    "destination": {
+      "Config": {
+        "***REMOVED***,
+        "apiUrl": "https://active.campaigns.rudder.com",
+        "actid": "476550467",
+        "***REMOVED***
+      }
+    }
+  }
+]
