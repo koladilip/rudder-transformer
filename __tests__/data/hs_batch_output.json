@@ -89,12 +89,14 @@
         "type": "REST",
         "files": {},
         "method": "POST",
-        "params": {},
+        "params": {
+          "***REMOVED***
+        },
         "headers": {
           "Content-Type": "application/json"
         },
         "version": "1",
-        "endpoint": "https://api.hubapi.com/contacts/v1/contact/batch/?***REMOVED***
+        "endpoint": "https://api.hubapi.com/contacts/v1/contact/batch/"
       },
       "metadata": [{ "job_id": 1 }, { "job_id": 2 }],
       "destination": {
