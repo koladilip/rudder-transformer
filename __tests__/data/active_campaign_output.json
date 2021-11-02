@@ -3,6 +3,7 @@
     "body": {
       "XML": {},
       "FORM": {},
+      "JSON_ARRAY": {},
       "JSON": {
         "***REMOVED***,
         "contact": {
@@ -28,6 +29,7 @@
     "body": {
       "XML": {},
       "FORM": {},
+      "JSON_ARRAY": {},
       "JSON": {
         "***REMOVED***,
         "siteTrackingDomain": {
@@ -49,6 +51,7 @@
   {
     "body": {
       "XML": {},
+      "JSON_ARRAY": {},
       "FORM": {
         "***REMOVED***,
         "actid": "476550467",
@@ -73,6 +76,7 @@
   {
     "body": {
       "XML": {},
+      "JSON_ARRAY": {},
       "FORM": {
         "***REMOVED***,
         "actid": "476550467",
