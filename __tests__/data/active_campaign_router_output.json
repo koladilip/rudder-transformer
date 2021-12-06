@@ -4,6 +4,7 @@
       "body": {
         "XML": {},
         "FORM": {},
+        "JSON_ARRAY": {},
         "JSON": {
           "***REMOVED***,
           "contact": {
@@ -46,6 +47,7 @@
       "body": {
         "XML": {},
         "FORM": {},
+        "JSON_ARRAY": {},
         "JSON": {
           "***REMOVED***,
           "siteTrackingDomain": {
