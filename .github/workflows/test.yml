@@ -14,5 +14,5 @@ jobs:
         args: install
     - name: Jest
       uses: rkusa/jest-action@master
-      ***REMOVED*** 
-          
+      with:
+        ***REMOVED***
