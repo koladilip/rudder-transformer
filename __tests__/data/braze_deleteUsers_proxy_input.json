@@ -1,0 +1,78 @@
+[
+  {
+    "request": {
+      "body": [
+        {
+          "destType": "braze",
+          "userAttributes": [
+            {
+              "userId": "test_user_id"
+            },
+            {
+              "userId": "user_sdk2"
+            }
+          ],
+          "config": {
+            "***REMOVED***,
+            "dataCenter": "US-03"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "request": {
+      "body": [
+        {
+          "destType": "braze",
+          "userAttributes": [
+            {
+              "userId": "test_user_id"
+            },
+            {
+              "userId": "user_sdk2"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "request": {
+      "body": [
+        {
+          "destType": "braze",
+          "userAttributes": [
+            {
+              "userId": "test_user_id"
+            },
+            {
+              "userId": "user_sdk2"
+            }
+          ],
+          "config": {
+            "dataCenter": "US-03"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "request": {
+      "body": [
+        {
+          "destType": "braze",
+          "userAttributes": [
+            {
+              "name": "a"
+            }
+          ],
+          "config": {
+            "***REMOVED***,
+            "dataCenter": "US-03"
+          }
+        }
+      ]
+    }
+  }
+]
