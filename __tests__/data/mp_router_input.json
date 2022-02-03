@@ -5,7 +5,8 @@
         "***REMOVED***,
         "***REMOVED***,
         "prefixProperties": true,
-        "useNativeSDK": false
+        "useNativeSDK": false,
+        "useOldMapping": true
       },
       "DestinationDefinition": {
         "DisplayName": "Kiss Metrics",
@@ -86,7 +87,8 @@
         "***REMOVED***,
         "***REMOVED***,
         "prefixProperties": true,
-        "useNativeSDK": false
+        "useNativeSDK": false,
+        "useOldMapping": true
       },
       "DestinationDefinition": {
         "DisplayName": "Kiss Metrics",
