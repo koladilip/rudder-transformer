@@ -56,7 +56,7 @@
         "***REMOVED***,
         "actid": "476550467",
         "event": "ScreenViewed",
-        "visit": "%7B%22email%22%3A%22jamesDoe%40gmail.com%22%7D",
+        "visit": "{\"email\":\"jamesDoe@gmail.com\"}",
         "***REMOVED***,
         "eventdata": "Rudder_Event_Screen_Test"
       },
@@ -81,7 +81,7 @@
         "***REMOVED***,
         "actid": "476550467",
         "event": "Tracking Action",
-        "visit": "%7B%22email%22%3A%22jamesDoe%40gmail.com%22%7D",
+        "visit": "{\"email\":\"jamesDoe@gmail.com\"}",
         "***REMOVED***,
         "eventdata": "Rudder_Event_Track_Test"
       },
