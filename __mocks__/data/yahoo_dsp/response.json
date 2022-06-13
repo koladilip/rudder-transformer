@@ -1,0 +1,10 @@
+{
+  "https://id.b2b.yahooinc.com/identity/oauth2/access_token": {
+    "data": {
+      "***REMOVED***,
+      "scope": "dsp-api-access",
+      "token_type": "Bearer",
+      "expires_in": 3599
+    }
+  }
+}
