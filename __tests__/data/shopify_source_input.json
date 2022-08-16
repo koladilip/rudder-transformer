@@ -95,7 +95,7 @@
     "buyer_accepts_marketing": false,
     "cancel_reason": null,
     "cancelled_at": null,
-    "cart_token": null,
+    "***REMOVED***,
     "checkout_id": 32397512573184,
     "***REMOVED***,
     "client_details": {
