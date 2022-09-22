@@ -1,0 +1,47 @@
+[
+  {
+    "request": {
+      "body": [
+        {
+          "destType": "MP",
+          "userAttributes": [
+            {
+              "userId": "test_user_id"
+            },
+            {
+              "userId": "user_sdk2"
+            }
+          ],
+          "config": {
+            "***REMOVED***,
+            "prefixProperties": true,
+            "useNativeSDK": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "request": {
+      "body": [
+        {
+          "destType": "MP",
+          "userAttributes": [
+            {
+              "email": "testUser@testMail.com"
+            },
+            {
+              "userId": "user_sdk2"
+            }
+          ],
+          "config": {
+            "***REMOVED***,
+            "prefixProperties": true,
+            "token": "1231241asfdklhasdf",
+            "useNativeSDK": false
+          }
+        }
+      ]
+    }
+  }
+]

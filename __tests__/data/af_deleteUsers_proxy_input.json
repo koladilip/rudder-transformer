@@ -1,0 +1,159 @@
+[
+  {
+    "request": {
+      "body": [
+        {
+          "destType": "AF",
+          "userAttributes": [
+            {
+              "userId": "test_user_id",
+              "appsflyer_id": "jklhajksfh"
+            },
+            {
+              "userId": "user_sdk2",
+              "appsflyer_id": "jklhajksfh"
+            }
+          ],
+          "config": {
+            "***REMOVED***,
+            "***REMOVED***
+          }
+        }
+      ]
+    }
+  },
+  {
+    "request": {
+      "body": [
+        {
+          "destType": "AF",
+          "userAttributes": [
+            {
+              "userId": "test_user_id",
+              "appsflyer_id": "jklhajksfh"
+            },
+            {
+              "userId": "user_sdk2",
+              "appsflyer_id": "jklhajksfh"
+            }
+          ],
+          "config": {
+            "***REMOVED***,
+            "appleAppId": "123456789",
+            "statusCallbackUrls": "https://examplecontroller.com/opengdpr_callbacks,https://examplecontroller.com/opengdpr_callbacks,https://examplecontroller.com/opengdpr_callbacks,https://examplecontroller.com/opengdpr_callbacks",
+            "***REMOVED***
+          }
+        }
+      ]
+    }
+  },
+  {
+    "request": {
+      "body": [
+        {
+          "destType": "AF",
+          "userAttributes": [
+            {
+              "email": "testUser@testMail.com",
+              "android_advertising_id": "1234"
+            },
+            {
+              "userId": "user_sdk2",
+              "android_advertising_id": "1234"
+            }
+          ],
+          "config": {
+            "devKey": "abcde",
+            "appleAppId": "asdfasdf",
+            "groupTypeTrait": "email",
+            "groupValueTrait": "age",
+            "trackProductsOnce": false,
+            "trackRevenuePerProduct": false,
+            "***REMOVED***
+          }
+        }
+      ]
+    }
+  },
+  {
+    "request": {
+      "body": [
+        {
+          "destType": "AF",
+          "userAttributes": [
+            {
+              "email": "testUser@testMail.com",
+              "ios_advertising_id": "1234"
+            },
+            {
+              "userId": "user_sdk2",
+              "ios_advertising_id": "1234"
+            }
+          ],
+          "config": {
+            "devKey": "abcde",
+            "androidAppId": "com.rudder.rs",
+            "groupTypeTrait": "email",
+            "groupValueTrait": "age",
+            "trackProductsOnce": false,
+            "trackRevenuePerProduct": false,
+            "***REMOVED***
+          }
+        }
+      ]
+    }
+  },
+  {
+    "request": {
+      "body": [
+        {
+          "destType": "AF",
+          "userAttributes": [
+            {
+              "email": "testUser@testMail.com",
+              "userId": "user1234"
+            },
+            {
+              "userId": "user_sdk2",
+              "ios_advertising_id": "1234"
+            }
+          ],
+          "config": {
+            "devKey": "abcde",
+            "androidAppId": "com.rudder.rs",
+            "groupTypeTrait": "email",
+            "groupValueTrait": "age",
+            "trackProductsOnce": false,
+            "trackRevenuePerProduct": false,
+            "***REMOVED***
+          }
+        }
+      ]
+    }
+  },
+  {
+    "request": {
+      "body": [
+        {
+          "destType": "AF",
+          "userAttributes": [
+            {
+              "userId": "test_user_id",
+              "appsflyer_id": "jklhajksfh"
+            },
+            {
+              "userId": "user_sdk2",
+              "appsflyer_id": "jklhajksfh"
+            }
+          ],
+          "config": {
+            "***REMOVED***,
+            "appleAppId": "123456789",
+            "statusCallbackUrls": "https://examplecontroller.com/opengdpr_callbacks,https://examplecontroller.com/opengdpr_callbacks,https://examplecontroller.com/opengdpr_callbacks,https://examplecontroller.com/opengdpr_callbacks,httpssssaeexamplecontroller.com/opengdpr_callbacks",
+            "***REMOVED***
+          }
+        }
+      ]
+    }
+  }
+]
