@@ -21,6 +21,8 @@
           "$region": "Kanto",
           "$country": "JP",
           "$zip": "100-0001",
+          "Flagged": false,
+          "Residence": "Shibuya",
           "***REMOVED***
         },
         "body": {
