@@ -20,28 +20,5 @@
         }
       ]
     }
-  },
-  {
-    "request": {
-      "body": [
-        {
-          "destType": "MP",
-          "userAttributes": [
-            {
-              "email": "testUser@testMail.com"
-            },
-            {
-              "userId": "user_sdk2"
-            }
-          ],
-          "config": {
-            "***REMOVED***,
-            "prefixProperties": true,
-            "token": "1231241asfdklhasdf",
-            "useNativeSDK": false
-          }
-        }
-      ]
-    }
   }
 ]
