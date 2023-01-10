@@ -7,6 +7,49 @@
           "userAttributes": [
             {
               "userId": "test_user_id",
+              "android_advertising_id": "1665148898336-5539842602053895577"
+            }
+          ],
+          "config": {
+            "***REMOVED***,
+            "appleAppId": "123456789",
+            "androidAppId": "AnAID",
+            "***REMOVED***
+          }
+        }
+      ]
+    }
+  },
+  {
+    "request": {
+      "body": [
+        {
+          "destType": "AF",
+          "userAttributes": [
+            {
+              "userId": "test_user_id",
+              "ios_advertising_id": "1665148898336-5539842602053895577"
+            }
+          ],
+          "config": {
+            "***REMOVED***,
+            "appleAppId": "123456789",
+            "androidAppId": "AnAID",
+            "***REMOVED***,
+            "statusCallbackUrls": "https://examplecontroller.com/opengdpr_callbacks"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "request": {
+      "body": [
+        {
+          "destType": "AF",
+          "userAttributes": [
+            {
+              "userId": "test_user_id",
               "appsflyer_id": "jklhajksfh"
             },
             {
@@ -125,31 +168,6 @@
             "groupValueTrait": "age",
             "trackProductsOnce": false,
             "trackRevenuePerProduct": false,
-            "***REMOVED***
-          }
-        }
-      ]
-    }
-  },
-  {
-    "request": {
-      "body": [
-        {
-          "destType": "AF",
-          "userAttributes": [
-            {
-              "userId": "test_user_id",
-              "appsflyer_id": "jklhajksfh"
-            },
-            {
-              "userId": "user_sdk2",
-              "appsflyer_id": "jklhajksfh"
-            }
-          ],
-          "config": {
-            "***REMOVED***,
-            "appleAppId": "123456789",
-            "statusCallbackUrls": "https://examplecontroller.com/opengdpr_callbacks,https://examplecontroller.com/opengdpr_callbacks,https://examplecontroller.com/opengdpr_callbacks,https://examplecontroller.com/opengdpr_callbacks,httpssssaeexamplecontroller.com/opengdpr_callbacks",
             "***REMOVED***
           }
         }
