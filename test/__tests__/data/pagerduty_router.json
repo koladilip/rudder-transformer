@@ -273,6 +273,12 @@
         "statTags": {
           "errorCategory": "dataValidation",
           "errorType": "instrumentation"
+        },
+        "destination": {
+          "Config": {
+            "***REMOVED***,
+            "dedupKeyFieldIdentifier": "properties.dedupKey"
+          }
         }
       }
     ]

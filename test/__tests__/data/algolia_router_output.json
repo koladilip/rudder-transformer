@@ -8,6 +8,18 @@
       "statTags": {
         "errorCategory": "dataValidation",
         "errorType": "instrumentation"
+      },
+      "destination": {
+        "Config": {
+          "***REMOVED***,
+          "applicationId": "O2YARRI15I",
+          "eventTypeSettings": [
+            {
+              "from": "product clicked",
+              "to": "cLick "
+            }
+          ]
+        }
       }
     },
     {
