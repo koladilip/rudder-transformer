@@ -109,6 +109,13 @@
       "errorCategory": "dataValidation",
       "errorType": "instrumentation"
     },
-    "statusCode": 400
+    "statusCode": 400,
+    "destination": {
+      "Config": {
+        "***REMOVED***,
+        "listName": ""
+      },
+      "Enabled": true
+    }
   }
 ]
