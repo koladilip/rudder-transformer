@@ -117,9 +117,7 @@
           "***REMOVED***,
           "***REMOVED***,
           "listId": "58578",
-          "contactPropertiesMapping": [
-            { "from": "userCountry", "to": "country" }
-          ]
+          "contactPropertiesMapping": [{ "from": "userCountry", "to": "country" }]
         }
       }
     },
