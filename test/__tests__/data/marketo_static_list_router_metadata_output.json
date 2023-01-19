@@ -1,20 +1,20 @@
 [
-    {
-        "destInfo": {
-            "***REMOVED***
-        },
-        "jobId": 1
+  {
+    "destInfo": {
+      "***REMOVED***
     },
-    {
-        "destInfo": {
-            "***REMOVED***
-        },
-        "jobId": 2
+    "jobId": 1
+  },
+  {
+    "destInfo": {
+      "***REMOVED***
     },
-    {
-        "destInfo": {
-            "***REMOVED***
-        },
-        "jobId": 3
-    }
+    "jobId": 2
+  },
+  {
+    "destInfo": {
+      "***REMOVED***
+    },
+    "jobId": 3
+  }
 ]

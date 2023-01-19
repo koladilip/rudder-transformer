@@ -12,7 +12,7 @@
         "***REMOVED***,
         "audienceId": "df42a82d07",
         "datacenterId": "us20",
-        "enableMergeFields":true
+        "enableMergeFields": true
       },
       "Enabled": true,
       "Transformations": []

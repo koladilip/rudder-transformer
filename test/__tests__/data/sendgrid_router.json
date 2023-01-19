@@ -6,10 +6,7 @@
         "destination": {
           "Config": {
             "apiKey": "***REMOVED***,
-            "eventNamesSettings": [
-              { "event": "testing" },
-              { "event": "clicked" }
-            ],
+            "eventNamesSettings": [{ "event": "testing" }, { "event": "clicked" }],
             "subject": "A sample subject",
             "replyToEmail": "ankit@rudderstack.com",
             "contents": [
@@ -130,10 +127,7 @@
         "destination": {
           "Config": {
             "apiKey": "***REMOVED***,
-            "eventNamesSettings": [
-              { "event": "testing" },
-              { "event": "clicked" }
-            ],
+            "eventNamesSettings": [{ "event": "testing" }, { "event": "clicked" }],
             "subject": "A sample subject",
             "replyToEmail": "ankit@rudderstack.com",
             "contents": [
