@@ -97,5 +97,27 @@
         "***REMOVED***
       }
     }
+  },
+  {
+    "batched": false,
+    "error": "Invalid URL: url",
+    "metadata": [
+      {
+        "jobId": 5
+      }
+    ],
+    "destination": {
+      "Config": {
+        "***REMOVED***,
+        "apiUrl": "https://active.campaigns.rudder.com",
+        "actid": "476550467",
+        "***REMOVED***
+      }
+    },
+    "statTags": {
+      "errorCategory": "dataValidation",
+      "errorType": "instrumentation"
+    },
+    "statusCode": 400
   }
 ]
