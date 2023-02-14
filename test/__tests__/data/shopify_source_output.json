@@ -93,7 +93,10 @@
       "integration": {
         "name": "SHOPIFY"
       },
-      "topic": "orders_updated"
+      "topic": "orders_updated",
+      "***REMOVED***,
+      "***REMOVED***,
+      "***REMOVED***
     },
     "integrations": {
       "SHOPIFY": true
