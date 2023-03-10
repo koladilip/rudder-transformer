@@ -85,8 +85,9 @@
       "Config": {
         "lookUpField": "email",
         "***REMOVED***,
-        "subDomainName": "testapi3",
-        "userName": "abcdef"
+        "subDomainName": "",
+        "domainName": "",
+        "userName": "abcdef@gmail.com"
       }
     },
     "metadata": {
