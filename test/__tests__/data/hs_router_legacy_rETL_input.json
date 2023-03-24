@@ -37,8 +37,8 @@
     },
     "destination": {
       "Config": {
-        "***REMOVED***,
-        "hubID": "6405167"
+        "apiKey": "dummy-apikey",
+        "hubID": "dummy-hubId"
       },
       "secretConfig": {},
       "ID": "1mMy5cqbtfuaKZv1IhVQKnBdVwe",
@@ -101,8 +101,8 @@
     },
     "destination": {
       "Config": {
-        "***REMOVED***,
-        "hubID": "6405167"
+        "apiKey": "dummy-apikey",
+        "hubID": "dummy-hubId"
       },
       "secretConfig": {},
       "ID": "1mMy5cqbtfuaKZv1IhVQKnBdVwe",
