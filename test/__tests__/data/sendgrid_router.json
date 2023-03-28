@@ -5,7 +5,7 @@
       {
         "destination": {
           "Config": {
-            "apiKey": "***REMOVED***,
+            "apiKey": "apikey",
             "eventNamesSettings": [{ "event": "testing" }, { "event": "clicked" }],
             "subject": "A sample subject",
             "replyToEmail": "ankit@rudderstack.com",
@@ -111,7 +111,7 @@
           "method": "POST",
           "params": {},
           "headers": {
-            "Authorization": "Bearer ***REMOVED***,
+            "Authorization": "Bearer apikey",
             "Content-Type": "application/json"
           },
           "version": "1",
@@ -126,7 +126,7 @@
         "statusCode": 200,
         "destination": {
           "Config": {
-            "apiKey": "***REMOVED***,
+            "apiKey": "apikey",
             "eventNamesSettings": [{ "event": "testing" }, { "event": "clicked" }],
             "subject": "A sample subject",
             "replyToEmail": "ankit@rudderstack.com",

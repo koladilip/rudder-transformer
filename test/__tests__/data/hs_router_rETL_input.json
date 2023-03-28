@@ -38,15 +38,15 @@
     "destination": {
       "Config": {
         "authorizationType": "newPrivateAppApi",
-        "***REMOVED***,
-        "hubID": "22315509",
-        "***REMOVED***,
+        "accessToken": "dummy-access-token",
+        "hubID": "dummy-hubId",
+        "apiKey": "dummy-apikey",
         "apiVersion": "newApi",
         "lookupField": "lookupField",
         "hubspotEvents": [
           {
             "rsEventName": "Purchase",
-            "hubspotEventName": "pe22315509_rs_hub_test",
+            "hubspotEventName": "pedummy-hubId_rs_hub_test",
             "eventProperties": [
               {
                 "from": "Revenue",
@@ -60,7 +60,7 @@
           },
           {
             "rsEventName": "Order Complete",
-            "hubspotEventName": "pe22315509_rs_hub_chair",
+            "hubspotEventName": "pedummy-hubId_rs_hub_chair",
             "eventProperties": [
               {
                 "from": "firstName",
@@ -147,15 +147,15 @@
     "destination": {
       "Config": {
         "authorizationType": "newPrivateAppApi",
-        "***REMOVED***,
-        "hubID": "22315509",
-        "***REMOVED***,
+        "accessToken": "dummy-access-token",
+        "hubID": "dummy-hubId",
+        "apiKey": "dummy-apikey",
         "apiVersion": "newApi",
         "lookupField": "lookupField",
         "hubspotEvents": [
           {
             "rsEventName": "Purchase",
-            "hubspotEventName": "pe22315509_rs_hub_test",
+            "hubspotEventName": "pedummy-hubId_rs_hub_test",
             "eventProperties": [
               {
                 "from": "Revenue",
@@ -169,7 +169,7 @@
           },
           {
             "rsEventName": "Order Complete",
-            "hubspotEventName": "pe22315509_rs_hub_chair",
+            "hubspotEventName": "pedummy-hubId_rs_hub_chair",
             "eventProperties": [
               {
                 "from": "firstName",
