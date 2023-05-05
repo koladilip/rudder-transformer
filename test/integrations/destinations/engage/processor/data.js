@@ -42,7 +42,7 @@ const data = [
                 ***REMOVED***,
               },
             },
-            error: 'Neither externalId or userId is available.',
+            error: 'Neither externalId nor userId is available',
             statTags: {
               destType: 'ENGAGE',
               errorCategory: 'dataValidation',
