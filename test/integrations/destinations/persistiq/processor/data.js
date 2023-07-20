@@ -240,11 +240,6 @@ const data = [
         status: 200,
         body: [
           {
-            destination: {
-              Config: {
-                ***REMOVED***,
-              },
-            },
             error: 'Event type is required',
             statTags: {
               destType: 'PERSISTIQ',
@@ -307,11 +302,6 @@ const data = [
         status: 200,
         body: [
           {
-            destination: {
-              Config: {
-                ***REMOVED***,
-              },
-            },
             error: 'Event type trackuser is not supported',
             statTags: {
               destType: 'PERSISTIQ',
@@ -367,11 +357,6 @@ const data = [
         status: 200,
         body: [
           {
-            destination: {
-              Config: {
-                ***REMOVED***,
-              },
-            },
             error: 'Group Id can not be empty',
             statTags: {
               destType: 'PERSISTIQ',
@@ -589,17 +574,6 @@ const data = [
         status: 200,
         body: [
           {
-            destination: {
-              Config: {
-                apiKey: '2c646069cc5ae3f22cc0dab36cd060ad',
-                persistIqAttributesMapping: [
-                  {
-                    from: 'useroccupation',
-                    to: 'occupation',
-                  },
-                ],
-              },
-            },
             error: 'Email is required for new lead',
             statTags: {
               destType: 'PERSISTIQ',
