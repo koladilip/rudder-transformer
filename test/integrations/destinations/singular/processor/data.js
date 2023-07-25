@@ -446,16 +446,6 @@ const data = [
         status: 200,
         body: [
           {
-            destination: {
-              Config: {
-                ***REMOVED***,
-                sessionEventList: [
-                  { sessionEventName: 'mysessionevent' },
-                  { sessionEventName: 'randomuser' },
-                  { sessionEventName: 'titanium' },
-                ],
-              },
-            },
             error: 'Event name is not present for the event',
             statTags: {
               destType: 'SINGULAR',
@@ -864,16 +854,6 @@ const data = [
         status: 200,
         body: [
           {
-            destination: {
-              Config: {
-                ***REMOVED***,
-                sessionEventList: [
-                  { sessionEventName: 'mysessionevent' },
-                  { sessionEventName: 'randomuser' },
-                  { sessionEventName: 'titanium' },
-                ],
-              },
-            },
             error: 'Platform name is missing from context.os.name',
             statTags: {
               destType: 'SINGULAR',
@@ -1257,16 +1237,6 @@ const data = [
         status: 200,
         body: [
           {
-            destination: {
-              Config: {
-                ***REMOVED***,
-                sessionEventList: [
-                  { sessionEventName: 'mysessionevent' },
-                  { sessionEventName: 'randomuser' },
-                  { sessionEventName: 'titanium' },
-                ],
-              },
-            },
             error: 'Missing required value from "properties.install_receipt"',
             statTags: {
               destType: 'SINGULAR',
@@ -1820,16 +1790,6 @@ const data = [
         status: 200,
         body: [
           {
-            destination: {
-              Config: {
-                ***REMOVED***,
-                sessionEventList: [
-                  { sessionEventName: 'mysessionevent' },
-                  { sessionEventName: 'randomuser' },
-                  { sessionEventName: 'titanium' },
-                ],
-              },
-            },
             error: 'Platform window is not supported',
             statTags: {
               destType: 'SINGULAR',
@@ -1942,16 +1902,6 @@ const data = [
         status: 200,
         body: [
           {
-            destination: {
-              Config: {
-                ***REMOVED***,
-                sessionEventList: [
-                  { sessionEventName: 'mysessionevent' },
-                  { sessionEventName: 'randomuser' },
-                  { sessionEventName: 'titanium' },
-                ],
-              },
-            },
             error: 'Event type identify is not supported',
             statTags: {
               destType: 'SINGULAR',

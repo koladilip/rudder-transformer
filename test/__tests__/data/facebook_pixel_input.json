@@ -3010,7 +3010,7 @@
             "blacklistPiiHash": false
           }
         ],
-        "***REMOVED***,
+        "accessToken": "validToken",
         "pixelId": "658311142062817",
         "eventsToEvents": [
           {
