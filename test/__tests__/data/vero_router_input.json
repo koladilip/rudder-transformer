@@ -2,7 +2,7 @@
   {
     "destination": {
       "Config": {
-        "***REMOVED***
+        "authToken": "testAuthToken"
       }
     },
     "metadata": {
@@ -21,7 +21,7 @@
   {
     "destination": {
       "Config": {
-        "***REMOVED***
+        "authToken": "testAuthToken"
       }
     },
     "metadata": {
@@ -40,7 +40,7 @@
   {
     "destination": {
       "Config": {
-        "***REMOVED***
+        "authToken": "testAuthToken"
       }
     },
     "metadata": {
@@ -68,7 +68,7 @@
   {
     "destination": {
       "Config": {
-        "***REMOVED***
+        "authToken": "testAuthToken"
       }
     },
     "metadata": {

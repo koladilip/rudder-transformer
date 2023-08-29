@@ -2,7 +2,7 @@
   {
     "destination": {
       "Config": {
-        "***REMOVED***
+        "apiKey": "dummyApiKey"
       },
       "ID": "stormly123"
     },
@@ -29,7 +29,7 @@
   {
     "destination": {
       "Config": {
-        "***REMOVED***
+        "apiKey": "dummyApiKey"
       },
       "ID": "stormly123"
     },

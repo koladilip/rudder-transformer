@@ -2,7 +2,7 @@
   {
     "destination": {
       "Config": {
-        "***REMOVED***,
+        "apiKey": "dummyApiKey",
         "signUpSourceId": "241654"
       }
     },

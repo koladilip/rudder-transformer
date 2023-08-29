@@ -2,7 +2,7 @@
   {
     "destination": {
       "Config": {
-        "***REMOVED***,
+        "apiKey": "dummyApiKey",
         "channel": "email",
         "delay": 0,
         "eventNamesSettings": [{ "event": "" }]
@@ -45,7 +45,7 @@
   {
     "destination": {
       "Config": {
-        "***REMOVED***,
+        "apiKey": "dummyApiKey",
         "channel": "email",
         "delay": 0,
         "eventNamesSettings": [{ "event": "" }]

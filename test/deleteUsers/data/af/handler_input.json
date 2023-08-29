@@ -14,7 +14,7 @@
             "***REMOVED***,
             "appleAppId": "123456789",
             "androidAppId": "AnAID",
-            "***REMOVED***
+            "apiToken": "dummyApiToken"
           }
         }
       ]
@@ -35,7 +35,7 @@
             "***REMOVED***,
             "appleAppId": "123456789",
             "androidAppId": "AnAID",
-            "***REMOVED***,
+            "apiToken": "dummyApiToken",
             "statusCallbackUrls": "https://examplecontroller.com/opengdpr_callbacks"
           }
         }
@@ -59,7 +59,7 @@
           ],
           "config": {
             "***REMOVED***,
-            "***REMOVED***
+            "apiToken": "dummyApiToken"
           }
         }
       ]
@@ -84,7 +84,7 @@
             "***REMOVED***,
             "appleAppId": "123456789",
             "statusCallbackUrls": "https://examplecontroller.com/opengdpr_callbacks,https://examplecontroller.com/opengdpr_callbacks,https://examplecontroller.com/opengdpr_callbacks,https://examplecontroller.com/opengdpr_callbacks",
-            "***REMOVED***
+            "apiToken": "dummyApiToken"
           }
         }
       ]
@@ -112,7 +112,7 @@
             "groupValueTrait": "age",
             "trackProductsOnce": false,
             "trackRevenuePerProduct": false,
-            "***REMOVED***
+            "apiToken": "dummyApiToken"
           }
         }
       ]
@@ -140,7 +140,7 @@
             "groupValueTrait": "age",
             "trackProductsOnce": false,
             "trackRevenuePerProduct": false,
-            "***REMOVED***
+            "apiToken": "dummyApiToken"
           }
         }
       ]
@@ -168,7 +168,7 @@
             "groupValueTrait": "age",
             "trackProductsOnce": false,
             "trackRevenuePerProduct": false,
-            "***REMOVED***
+            "apiToken": "dummyApiToken"
           }
         }
       ]
