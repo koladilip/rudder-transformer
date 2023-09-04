@@ -316,7 +316,7 @@
       },
       "destination": {
         "Config": {
-          "***REMOVED***,
+          "apiKey": "dummyApiKey",
           "applicationId": "O2YARRI15I",
           "eventTypeSettings": [
             {

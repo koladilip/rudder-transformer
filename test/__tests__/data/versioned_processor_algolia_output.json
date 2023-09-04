@@ -7,7 +7,7 @@
       "endpoint": "https://insights.algolia.io/1/events",
       "headers": {
         "X-Algolia-Application-Id": "O2YARRI15I",
-        "***REMOVED***
+        "X-Algolia-API-Key": "dummyApiKey"
       },
       "params": {},
       "body": {
@@ -39,7 +39,7 @@
       "endpoint": "https://insights.algolia.io/1/events",
       "headers": {
         "X-Algolia-Application-Id": "O2YARRI15I",
-        "***REMOVED***
+        "X-Algolia-API-Key": "dummyApiKey"
       },
       "params": {},
       "body": {
@@ -103,7 +103,7 @@
       "endpoint": "https://insights.algolia.io/1/events",
       "headers": {
         "X-Algolia-Application-Id": "O2YARRI15I",
-        "***REMOVED***
+        "X-Algolia-API-Key": "dummyApiKey"
       },
       "params": {},
       "body": {
