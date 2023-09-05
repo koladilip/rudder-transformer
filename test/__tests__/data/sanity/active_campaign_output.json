@@ -6,7 +6,7 @@
     "endpoint": "https://active.campaigns.rudder.com/api/3/contact/sync",
     "headers": {
       "Content-Type": "application/json",
-      "***REMOVED***
+      "Api-Token": "dummyApiToken"
     },
     "params": {},
     "body": {
@@ -17,7 +17,7 @@
           "firstName": null,
           "lastName": null
         },
-        "***REMOVED***
+        "apiKey": "dummyApiKey"
       },
       "XML": {},
       "JSON_ARRAY": {},
@@ -32,7 +32,7 @@
     "endpoint": "https://active.campaigns.rudder.com/api/3/contact/sync",
     "headers": {
       "Content-Type": "application/json",
-      "***REMOVED***
+      "Api-Token": "dummyApiToken"
     },
     "params": {},
     "body": {
@@ -43,7 +43,7 @@
           "firstName": "Sajal",
           "lastName": "Mohanta"
         },
-        "***REMOVED***
+        "apiKey": "dummyApiKey"
       },
       "XML": {},
       "JSON_ARRAY": {},

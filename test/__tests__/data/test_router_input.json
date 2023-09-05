@@ -168,7 +168,7 @@
     "destination": {
       "config": {
         "***REMOVED***,
-        "***REMOVED***,
+        "restApiKey": "dummyApiKey",
         "dataCenter": "US-03",
         "useNativeSDK": {
           "web": false

@@ -19,7 +19,7 @@
     "endpoint": "https://insights.algolia.io/1/events",
     "files": {},
     "headers": {
-      "***REMOVED***,
+      "X-Algolia-API-Key": "dummyApiKey",
       "X-Algolia-Application-Id": "O2YARRI15I"
     },
     "method": "POST",
@@ -49,7 +49,7 @@
     "endpoint": "https://insights.algolia.io/1/events",
     "files": {},
     "headers": {
-      "***REMOVED***,
+      "X-Algolia-API-Key": "dummyApiKey",
       "X-Algolia-Application-Id": "O2YARRI15I"
     },
     "method": "POST",
@@ -90,7 +90,7 @@
     "endpoint": "https://insights.algolia.io/1/events",
     "files": {},
     "headers": {
-      "***REMOVED***,
+      "X-Algolia-API-Key": "dummyApiKey",
       "X-Algolia-Application-Id": "O2YARRI15I"
     },
     "method": "POST",

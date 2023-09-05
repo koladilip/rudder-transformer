@@ -3,7 +3,7 @@
     "config": {
       "processor": {
         "Config": {
-          "***REMOVED***,
+          "apiKey": "dummyApiKey",
           "apiUrl": "https://active.campaigns.rudder.com",
           "actid": "476550467",
           "***REMOVED***
