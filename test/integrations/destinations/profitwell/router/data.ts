@@ -10,14 +10,8 @@ export const data = [
         body: {
           input: [
             {
-              destination: {
-                Config: {
-                  ***REMOVED***,
-                },
-              },
-              metadata: {
-                jobId: 2,
-              },
+              destination: { Config: { ***REMOVED*** } },
+              metadata: { jobId: 2, userId: 'u1' },
               message: {
                 channel: 'web',
                 context: {
@@ -92,18 +86,10 @@ export const data = [
                 version: '1',
                 endpoint: 'https://api.profitwell.com/v2/subscriptions/',
               },
-              metadata: [
-                {
-                  jobId: 2,
-                },
-              ],
+              metadata: [{ jobId: 2, userId: 'u1' }],
               batched: false,
               statusCode: 200,
-              destination: {
-                Config: {
-                  ***REMOVED***,
-                },
-              },
+              destination: { Config: { ***REMOVED*** } },
             },
           ],
         },
