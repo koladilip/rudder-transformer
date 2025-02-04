@@ -556,6 +556,7 @@ export const genericTrackTestScenarios = [
                   },
                   traits: {
                     email: 'henry@wfls.com',
+                    ***REMOVED***,
                   },
                   anonymousId: '50ead33e-d763-4854-b0ab-765859ef05cb',
                 },
