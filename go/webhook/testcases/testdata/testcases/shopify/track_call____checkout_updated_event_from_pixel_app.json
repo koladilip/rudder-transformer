@@ -3,7 +3,11 @@
   "description": "Track Call -> Checkout Updated event from Pixel app",
   "input": {
     "request": {
-      "query": "{\"topic\":[\"checkouts_update\"],\"writeKey\":[\"2mw9SN679HngnXXXHT4oSVVBVmb\"],\"version\":[\"pixel\"]}",
+      "query": {
+        "topic": ["checkouts_update"],
+        "writeKey": ["2mw9SN679HngnXXXHT4oSVVBVmb"],
+        "version": ["pixel"]
+      },
       "body": {
         "id": 35374569160817,
         "***REMOVED***,
