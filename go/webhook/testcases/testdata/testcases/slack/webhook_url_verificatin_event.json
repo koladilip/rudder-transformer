@@ -3,7 +3,6 @@
   "description": "Webhook url verificatin event",
   "input": {
     "request": {
-      "query": "{}",
       "body": {
         "***REMOVED***,
         "challenge": "3eZbrw1aB10FEMAGAZd4FyFQ",
