@@ -250,7 +250,7 @@ const deliveryNwData = [
     httpReq: {
       url: 'https://api.amplitude.com/2/httpapi/test1',
       data: {
-        ***REMOVED***,
+        api_key: 'dummy-api-key',
         events: [
           {
             app_name: 'Rudder-CleverTap_Example',
@@ -301,7 +301,7 @@ const deliveryNwData = [
     httpReq: {
       url: 'https://api.amplitude.com/2/httpapi/test2',
       data: {
-        ***REMOVED***,
+        api_key: 'dummy-api-key',
         events: [
           {
             app_name: 'Rudder-CleverTap_Example',
@@ -354,7 +354,7 @@ const deliveryNwData = [
     httpReq: {
       url: 'https://api.amplitude.com/2/httpapi/test4',
       data: {
-        ***REMOVED***,
+        api_key: 'dummy-api-key',
         events: [
           {
             app_name: 'Rudder-CleverTap_Example',
@@ -387,7 +387,7 @@ const deliveryNwData = [
     httpReq: {
       url: 'https://api.amplitude.com/2/httpapi/test5',
       data: {
-        ***REMOVED***,
+        api_key: 'dummy-api-key',
         events: [
           {
             app_name: 'Rudder-CleverTap_Example',
@@ -420,7 +420,7 @@ const deliveryNwData = [
     httpReq: {
       url: 'https://api.amplitude.com/2/httpapi/test6',
       data: {
-        ***REMOVED***,
+        api_key: 'dummy-api-key',
         events: [
           {
             app_name: 'Rudder-CleverTap_Example',
