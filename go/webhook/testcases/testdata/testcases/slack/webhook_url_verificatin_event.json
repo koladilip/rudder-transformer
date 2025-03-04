@@ -4,9 +4,7 @@
   "input": {
     "request": {
       "body": {
-        "***REMOVED***,
-        "challenge": "3eZbrw1aB10FEMAGAZd4FyFQ",
-        "type": "url_verification"
+        "source": {}
       },
       "headers": {
         "Content-Type": "application/json"
