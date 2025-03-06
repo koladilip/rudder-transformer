@@ -1,3 +1,10 @@
+import {
+  secretInvalidToken,
+  secretAccountToken,
+  secretAccessToken,
+  secretRefreshToken,
+} from './maskedSecrets';
+
 export const networkCallsData = [
   {
     httpReq: {
@@ -134,15 +141,15 @@ export const networkCallsData = [
   },
   {
     httpReq: {
-      url: 'https://api.wootric.com/oauth/token?account_token=NPS-dummyToken',
+      url: `https://api.wootric.com/oauth/token?account_token=${secretAccountToken}`,
       method: 'POST',
     },
     httpRes: {
       data: {
-        ***REMOVED***,
+        access_token: secretAccessToken,
         token_type: 'Bearer',
         expires_in: 7200,
-        ***REMOVED***,
+        refresh_token: secretRefreshToken,
         scope: 'delete_account admin respond export read survey invalidate_response',
         created_at: 1660292389,
       },
@@ -169,7 +176,7 @@ export const networkCallsData = [
   },
   {
     httpReq: {
-      url: 'https://api.wootric.com/oauth/token?account_token=NPS-dummyToken12',
+      url: `https://api.wootric.com/oauth/token?account_token=${secretInvalidToken}`,
       method: 'POST',
     },
     httpRes: {
