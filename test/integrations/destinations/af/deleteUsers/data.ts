@@ -28,7 +28,7 @@ const requests = [
             },
           ],
           config: {
-            ***REMOVED***,
+            devKey: 'ef1d42390426e3f7c90ac78272e74344',
             apiToken: secret1,
           },
         },
@@ -51,7 +51,7 @@ const requests = [
             },
           ],
           config: {
-            ***REMOVED***,
+            devKey: 'ef1d42390426e3f7c90ac78272e74344',
             appleAppId: '123456789',
             statusCallbackUrls:
               'https://examplecontroller.com/opengdpr_callbacks,https://examplecontroller.com/opengdpr_callbacks,https://examplecontroller.com/opengdpr_callbacks,https://examplecontroller.com/opengdpr_callbacks',
@@ -228,7 +228,7 @@ export const data = [
               },
             ],
             config: {
-              ***REMOVED***,
+              devKey: 'ef1d42390426e3f7c90ac78272e74344',
               appleAppId: '123456789',
               androidAppId: 'AnAID',
               apiToken: secret1,
@@ -272,7 +272,7 @@ export const data = [
               },
             ],
             config: {
-              ***REMOVED***,
+              devKey: 'ef1d42390426e3f7c90ac78272e74344',
               appleAppId: '123456789',
               androidAppId: 'AnAID',
               apiToken: secret1,

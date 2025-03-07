@@ -15,7 +15,7 @@ export const data = [
               destination: {
                 Config: {
                   clientId: 'abcdef8-f49-4cd6-b4c5-958b3d66d431',
-                  ***REMOVED***,
+                  clientSecret: 'sjhdkhfrz6yc9LrRRIPimE9h53jADLccXTykHCcA6eEoFR4rXQg',
                   audienceType: 'EMAIL',
                   accountId: '12444',
                   audienceId: '34893',
@@ -122,7 +122,7 @@ export const data = [
               destination: {
                 Config: {
                   clientId: 'abcdef8-f49-4cd6-b4c5-958b3d66d431',
-                  ***REMOVED***,
+                  clientSecret: 'sjhdkhfrz6yc9LrRRIPimE9h53jADLccXTykHCcA6eEoFR4rXQg',
                   audienceType: 'EMAIL',
                   accountId: '12444',
                   audienceId: '34893',

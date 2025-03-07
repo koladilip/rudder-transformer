@@ -24,7 +24,7 @@
             "html_url": "https://rudderlabs-com.pagerduty.com/incidents/Q1KRTY75EUMGM0",
             "number": 7,
             "status": "triggered",
-            "***REMOVED***,
+            "incident_key": "a3e0e442f8b74a8c94298f19de0dcbed",
             "created_at": "2022-12-20T11:37:19Z",
             "title": "Event Stream Failure",
             "service": {
@@ -131,7 +131,7 @@
               }
             ],
             "created_at": "2022-12-20T11:37:19Z",
-            "***REMOVED***,
+            "incident_key": "a3e0e442f8b74a8c94298f19de0dcbed",
             "resolve_reason": null,
             "conference_bridge": null,
             "escalation_policy": {

@@ -29,7 +29,7 @@
   },
   {
     "destKey": "uuid_c1",
-    "***REMOVED***,
+    "sourceKeys": "properties.uuid_c1",
     "required": false
   },
   {

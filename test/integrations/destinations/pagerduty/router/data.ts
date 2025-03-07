@@ -47,7 +47,7 @@ export const data = [
               metadata: { jobId: 1, userId: 'u1' },
               destination: {
                 Config: {
-                  ***REMOVED***,
+                  routingKey: '9552b56325dc490bd0139be85f7b8fac',
                   dedupKeyFieldIdentifier: 'properties.dedupKey',
                 },
               },
@@ -95,7 +95,7 @@ export const data = [
               metadata: { jobId: 2, userId: 'u1' },
               destination: {
                 Config: {
-                  ***REMOVED***,
+                  routingKey: '9552b56325dc490bd0139be85f7b8fac',
                   dedupKeyFieldIdentifier: 'properties.dedupKey',
                 },
               },
@@ -144,7 +144,7 @@ export const data = [
               metadata: { jobId: 3, userId: 'u1' },
               destination: {
                 Config: {
-                  ***REMOVED***,
+                  routingKey: '9552b56325dc490bd0139be85f7b8fac',
                   dedupKeyFieldIdentifier: 'properties.dedupKey',
                 },
               },
@@ -192,7 +192,7 @@ export const data = [
                       summary: 'Github CI/CD Triggered',
                       custom_details: { 'load avg': 0.75, 'ping time': '1500ms' },
                     },
-                    ***REMOVED***,
+                    routing_key: '9552b56325dc490bd0139be85f7b8fac',
                   },
                   JSON_ARRAY: {},
                 },
@@ -206,7 +206,7 @@ export const data = [
               },
               destination: {
                 Config: {
-                  ***REMOVED***,
+                  routingKey: '9552b56325dc490bd0139be85f7b8fac',
                   dedupKeyFieldIdentifier: 'properties.dedupKey',
                 },
               },
@@ -221,7 +221,7 @@ export const data = [
                   FORM: {},
                   JSON: {
                     dedup_key: '9116b734-7e6b-4497-ab51-c16744d4487e',
-                    ***REMOVED***,
+                    routing_key: '9552b56325dc490bd0139be85f7b8fac',
                     event_action: 'acknowledge',
                   },
                   JSON_ARRAY: {},
@@ -236,7 +236,7 @@ export const data = [
               },
               destination: {
                 Config: {
-                  ***REMOVED***,
+                  routingKey: '9552b56325dc490bd0139be85f7b8fac',
                   dedupKeyFieldIdentifier: 'properties.dedupKey',
                 },
               },
@@ -258,7 +258,7 @@ export const data = [
               },
               destination: {
                 Config: {
-                  ***REMOVED***,
+                  routingKey: '9552b56325dc490bd0139be85f7b8fac',
                   dedupKeyFieldIdentifier: 'properties.dedupKey',
                 },
               },

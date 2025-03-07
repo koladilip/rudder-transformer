@@ -93,7 +93,7 @@ export const data = [
             destination: {
               Config: {
                 eventApiKey: secret1,
-                ***REMOVED***,
+                usersApiKey: 'b4a29aba5e75duic8a18acd920ec1e2e',
                 dataCenter: 'standard',
               },
             },
@@ -278,7 +278,7 @@ export const data = [
             destination: {
               Config: {
                 eventApiKey: secret1,
-                ***REMOVED***,
+                usersApiKey: 'b4a29aba5e75duic8a18acd920ec1e2e',
                 dataCenter: 'standard',
               },
             },
@@ -445,7 +445,7 @@ export const data = [
             destination: {
               Config: {
                 eventApiKey: secret1,
-                ***REMOVED***,
+                usersApiKey: 'b4a29aba5e75duic8a18acd920ec1e2e',
                 dataCenter: 'eu',
               },
             },
@@ -684,7 +684,7 @@ export const data = [
           {
             destination: {
               Config: {
-                ***REMOVED***,
+                eventApiKey: 'a5e75d99c8a18acb4a29abd920ec1e2e',
                 usersApiKey: secret2,
                 dataCenter: 'standard',
               },
@@ -766,7 +766,7 @@ export const data = [
           {
             destination: {
               Config: {
-                ***REMOVED***,
+                eventApiKey: 'a5e75d99c8a18acb4a29abd920ec1e2e',
                 usersApiKey: secret2,
                 dataCenter: 'standard',
               },
@@ -916,7 +916,7 @@ export const data = [
           {
             destination: {
               Config: {
-                ***REMOVED***,
+                eventApiKey: 'a5e75d99c8a18acb4a29abd920ec1e2e',
                 dataCenter: 'eu',
               },
             },
@@ -1023,7 +1023,7 @@ export const data = [
           {
             destination: {
               Config: {
-                ***REMOVED***,
+                eventApiKey: 'a5e75d99c8a18acb4a29abd920ec1e2e',
                 usersApiKey: secret2,
                 dataCenter: 'eu',
               },
@@ -1112,7 +1112,7 @@ export const data = [
           {
             destination: {
               Config: {
-                ***REMOVED***,
+                eventApiKey: 'a5e75d99c8a18acb4a29abd920ec1e2e',
                 usersApiKey: secret2,
                 dataCenter: 'eu',
               },
@@ -1180,7 +1180,7 @@ export const data = [
           {
             destination: {
               Config: {
-                ***REMOVED***,
+                eventApiKey: 'a5e75d99c8a18acb4a29abd920ec1e2e',
                 usersApiKey: secret2,
                 dataCenter: 'eu',
               },
@@ -1250,7 +1250,7 @@ export const data = [
             destination: {
               Config: {
                 eventApiKey: secret1,
-                ***REMOVED***,
+                usersApiKey: 'b4a29aba5e75duic8a18acd920ec1e2e',
                 dataCenter: 'eu',
               },
             },
@@ -1520,7 +1520,7 @@ export const data = [
             destination: {
               Config: {
                 eventApiKey: secret1,
-                ***REMOVED***,
+                usersApiKey: 'b4a29aba5e75duic8a18acd920ec1e2e',
                 dataCenter: 'eu',
               },
             },
@@ -1641,7 +1641,7 @@ export const data = [
             destination: {
               Config: {
                 eventApiKey: secret1,
-                ***REMOVED***,
+                usersApiKey: 'b4a29aba5e75duic8a18acd920ec1e2e',
                 dataCenter: 'eu',
               },
             },
@@ -1762,7 +1762,7 @@ export const data = [
             destination: {
               Config: {
                 eventApiKey: secret1,
-                ***REMOVED***,
+                usersApiKey: 'b4a29aba5e75duic8a18acd920ec1e2e',
                 dataCenter: 'standard',
               },
             },
@@ -1896,7 +1896,7 @@ export const data = [
           {
             destination: {
               Config: {
-                ***REMOVED***,
+                usersApiKey: 'b4a29aba5e75duic8a18acd920ec1e2e',
                 dataCenter: 'eu',
               },
             },

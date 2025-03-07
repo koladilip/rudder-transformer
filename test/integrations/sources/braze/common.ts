@@ -21,7 +21,7 @@ export const commonSourceConfigProperties = {
   Enabled: true,
   WorkspaceID: '2hSS1hZ8kuCpUZAAYsQucAFdob9',
   Destinations: null,
-  ***REMOVED***,
+  WriteKey: '2hgvYykpvMaE5Eg47Au8RWC9Yza',
   DgSourceTrackingPlanConfig: DgSourceTrackingPlanConfig,
   Transient: false,
   GeoEnrichment: {

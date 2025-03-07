@@ -258,7 +258,7 @@ describe('utilV2.js', () => {
             buyerAcceptsEmailMarketing: false,
             buyerAcceptsSmsMarketing: false,
             attributes: [],
-            ***REMOVED***,
+            token: '5f7028e0bd5225c17b24bdaa0c09f914',
             currencyCode: 'USD',
             discountApplications: [],
             discountsAmount: {
@@ -449,7 +449,7 @@ describe('utilV2.js', () => {
               provinceCode: null,
               zip: null,
             },
-            ***REMOVED***,
+            token: '5f7028e0bd5225c17b24bdaa0c09f914',
             currencyCode: 'USD',
             discountApplications: [],
             discountsAmount: {
@@ -757,7 +757,7 @@ describe('utilV2.js', () => {
           amount: 2759.8,
           currencyCode: 'USD',
         },
-        ***REMOVED***,
+        token: '5f7028e0bd5225c17b24bdaa0c09f914',
         totalPrice: {
           amount: 2759.8,
           currencyCode: 'USD',

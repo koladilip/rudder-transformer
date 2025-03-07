@@ -87,7 +87,7 @@
         "event": {
           "eventType": "ENGAGEMENT",
           "eventId": "6494e73a-976b-4ee5-b8a8-de9effff7e80",
-          "***REMOVED***,
+          "propertyKey": "AP-N6SV00EVMR1E-2-1",
           "date": 1605262539389,
           "sessionId": "AP-N6SV00EVMR1E-2-1605262502068-24197555",
           "globalContext": {
@@ -158,7 +158,7 @@
         },
         "type": "track",
         "properties": {
-          "***REMOVED***,
+          "propertyKey": "AP-N6SV00EVMR1E-2-1",
           "engagementId": "83c30d4e-88c3-4054-a0fa-33451a6ea7fc",
           "contentType": "IN_APP_DIALOG",
           "engagementType": "Dialog",

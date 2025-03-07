@@ -5,14 +5,14 @@ export const headerBlockWithCorrectAccessToken = {
   'Content-Type': 'application/json',
   Accept: 'application/json',
   'X-WSSE':
-    'UsernameToken Username="dummy", ***REMOVED***, Nonce="5398e214ae99c2e50afb709a3bc423f9", Created="2019-10-14T00:00:00.000Z"',
+    'UsernameToken Username="dummy", PasswordDigest="NDc5MjNlODIyMGE4ODhiMTQyNTA0OGMzZTFjZTM1MmMzMmU0NmNiNw==", Nonce="5398e214ae99c2e50afb709a3bc423f9", Created="2019-10-14T00:00:00.000Z"',
 };
 
 export const headerBlockWithWrongAccessToken = {
   'Content-Type': 'application/json',
   Accept: 'application/json',
   'X-WSSE':
-    'UsernameToken Username="dummy2", ***REMOVED***, Nonce="5398e214ae99c2e50afb709a3bc423f9", Created="2019-10-14T00:00:00.000Z"',
+    'UsernameToken Username="dummy2", PasswordDigest="NDc5MjNlODIyMGE4ODhiMTQyNTA0OGMzZTFjZTM1MmMzMmU0NmNiNw==", Nonce="5398e214ae99c2e50afb709a3bc423f9", Created="2019-10-14T00:00:00.000Z"',
 };
 
 export const correctContactCreateUpdateData = [

@@ -144,7 +144,7 @@ export const identifyTests = [
                     last_active: 1609693373,
                   },
                   subscriptions: [
-                    { ***REMOVED***, type: 'FirefoxPush' },
+                    { token: '97c46c81-3140-456d-b2a9-690d70aaca35', type: 'FirefoxPush' },
                   ],
                   identity: {
                     external_id: 'user@27',
@@ -253,7 +253,7 @@ export const identifyTests = [
                     {
                       device_model: 'dummy model',
                       device_os: '1.0.0',
-                      ***REMOVED***,
+                      token: '97c46c81-3140-456d-b2a9-690d70aaca35',
                       type: 'FirefoxPush',
                     },
                     {

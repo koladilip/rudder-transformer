@@ -751,7 +751,7 @@ export const data = [
                 files: {},
               },
               metadata: [
-                { destInfo: { ***REMOVED*** }, jobId: 1, userId: 'u1' },
+                { destInfo: { authKey: '1mMy5cqbtfuaKZv1IhVQKnBdVwe' }, jobId: 1, userId: 'u1' },
               ],
               batched: false,
               statusCode: 200,
@@ -869,7 +869,7 @@ export const data = [
                 files: {},
               },
               metadata: [
-                { destInfo: { ***REMOVED*** }, jobId: 2, userId: 'u1' },
+                { destInfo: { authKey: '1mMy5cqbtfuaKZv1IhVQKnBdVwe' }, jobId: 2, userId: 'u1' },
               ],
               batched: false,
               statusCode: 200,
@@ -963,7 +963,7 @@ export const data = [
                 '{"message":"Request Failed for marketo, Lookup field \'userId\' not found (Aborted).[Marketo Transformer]: During lead look up using email","destinationResponse":{"response":{"requestId":"142e4#1835b117b76","success":false,"errors":[{"code":"1006","message":"Lookup field \'userId\' not found"}]},"status":200}}',
               statTags: { errorCategory: 'network', errorType: 'aborted' },
               metadata: [
-                { destInfo: { ***REMOVED*** }, jobId: 3, userId: 'u1' },
+                { destInfo: { authKey: '1mMy5cqbtfuaKZv1IhVQKnBdVke' }, jobId: 3, userId: 'u1' },
               ],
               destination: {
                 Config: {
@@ -1161,7 +1161,7 @@ export const data = [
                 isProcessorEnabled: true,
               },
               metadata: [
-                { destInfo: { ***REMOVED*** }, jobId: 4, userId: 'u1' },
+                { destInfo: { authKey: '1mMy5cqbtfuaKZv1IhVQKnBdVke' }, jobId: 4, userId: 'u1' },
               ],
             },
             {
@@ -1197,7 +1197,7 @@ export const data = [
                 files: {},
               },
               metadata: [
-                { destInfo: { ***REMOVED*** }, jobId: 5, userId: 'u1' },
+                { destInfo: { authKey: '1mMy5cqbtfuaKZv1IhVQKnBdVke' }, jobId: 5, userId: 'u1' },
               ],
               batched: false,
               statusCode: 200,

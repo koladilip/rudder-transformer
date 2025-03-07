@@ -2558,7 +2558,7 @@ export const data = [
               headers: {},
               params: {
                 access_token: 'ABC',
-                ***REMOVED***,
+                appsecret_proof: 'd103874f3b5f01f57c4f84edfb96ac94055da8f83c2b45e6f26dafca9188ff4d',
                 appsecret_time: 1697328000,
                 payload: {
                   is_raw: true,

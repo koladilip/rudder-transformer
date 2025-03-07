@@ -87,7 +87,7 @@
         "event": {
           "eventType": "FEEDBACK",
           "eventId": "d007bd76-decb-4a77-8456-d84fb15c6a83",
-          "***REMOVED***,
+          "propertyKey": "AP-E9VUBBLZ6BIS-2-1",
           "date": 1665415753621,
           "sessionId": "AP-E9VUBBLZ6BIS-2-1665415678379-45445457",
           "globalContext": null,
@@ -155,7 +155,7 @@
         },
         "type": "track",
         "properties": {
-          "***REMOVED***,
+          "propertyKey": "AP-E9VUBBLZ6BIS-2-1",
           "feedback": {
             "labels": ["492120f5-3573-11ec-bef0-42010a800545"],
             "description": "feedback body",

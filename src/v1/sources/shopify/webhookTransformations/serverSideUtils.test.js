@@ -156,7 +156,7 @@ describe('serverSideUtils.js', () => {
     // Add cart token hash to traits when cart token exists in event
     it('should add cart_token_hash to message traits when cart token exists', () => {
       const message = { traits: { existingTrait: 'value' } };
-      const event = { ***REMOVED*** };
+      const event = { cart_token: 'Z2NwLXVzLWVhc3QxOjAxSkJaTUVRSjgzNUJUN1BTNjEzRFdRUFFQ' };
       const expectedHash = '9125e1da-57b9-5bdc-953e-eb2b0ded5edc';
 
       addCartTokenHashToTraits(message, event);
@@ -185,8 +185,8 @@ describe('Redis cart token tests', () => {
       .mockResolvedValue({ anonymousId: 'anonymousIdTest1' });
     const event = {
       id: 35550298931313,
-      ***REMOVED***,
-      ***REMOVED***,
+      token: '84ad78572dae52a8cbea7d55371afe89',
+      cart_token: 'Z2NwLXVzLWVhc3QxOjAxSkJaTUVRSjgzNUJUN1BTNjEzRFdRUFFQ',
       email: null,
       gateway: null,
       buyer_accepts_marketing: false,

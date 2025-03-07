@@ -33,7 +33,7 @@ export const data = [
                     html_url: 'https://rudderlabs-com.pagerduty.com/incidents/Q3S7IX2U5KTCOY',
                     number: 2,
                     status: 'triggered',
-                    ***REMOVED***,
+                    incident_key: 'faaecfc0aca04b6ea07154188b5d3c6c',
                     created_at: '2022-12-07T10:56:52Z',
                     title: 'Server Crashed',
                     service: {
@@ -141,7 +141,7 @@ export const data = [
                         },
                       ],
                       created_at: '2022-12-07T10:56:52Z',
-                      ***REMOVED***,
+                      incident_key: 'faaecfc0aca04b6ea07154188b5d3c6c',
                       resolve_reason: null,
                       conference_bridge: null,
                       escalation_policy: {
@@ -200,7 +200,7 @@ export const data = [
                     html_url: 'https://rudderlabs-com.pagerduty.com/incidents/Q1KRTY75EUMGM0',
                     number: 7,
                     status: 'acknowledged',
-                    ***REMOVED***,
+                    incident_key: 'a3e0e442f8b74a8c94298f19de0dcbed',
                     created_at: '2022-12-20T11:37:19Z',
                     title: 'Event Stream Failure',
                     service: {
@@ -308,7 +308,7 @@ export const data = [
                         },
                       ],
                       created_at: '2022-12-20T11:37:19Z',
-                      ***REMOVED***,
+                      incident_key: 'a3e0e442f8b74a8c94298f19de0dcbed',
                       resolve_reason: null,
                       conference_bridge: null,
                       escalation_policy: {
@@ -474,7 +474,7 @@ export const data = [
                     html_url: 'https://rudderlabs-com.pagerduty.com/incidents/Q1KRTY75EUMGM0',
                     number: 7,
                     status: 'triggered',
-                    ***REMOVED***,
+                    incident_key: 'a3e0e442f8b74a8c94298f19de0dcbed',
                     created_at: '2022-12-20T11:37:19Z',
                     title: 'Event Stream Failure',
                     service: {
@@ -582,7 +582,7 @@ export const data = [
                         },
                       ],
                       created_at: '2022-12-20T11:37:19Z',
-                      ***REMOVED***,
+                      incident_key: 'a3e0e442f8b74a8c94298f19de0dcbed',
                       resolve_reason: null,
                       conference_bridge: null,
                       escalation_policy: {
@@ -637,7 +637,7 @@ export const data = [
                     html_url: 'https://rudderlabs-com.pagerduty.com/incidents/Q3S7IX2U5KTCOY',
                     number: 2,
                     status: 'resolved',
-                    ***REMOVED***,
+                    incident_key: 'faaecfc0aca04b6ea07154188b5d3c6c',
                     created_at: '2022-12-07T10:56:52Z',
                     title: 'Server Crashed',
                     service: {
@@ -729,7 +729,7 @@ export const data = [
                       },
                       assignees: [],
                       created_at: '2022-12-07T10:56:52Z',
-                      ***REMOVED***,
+                      incident_key: 'faaecfc0aca04b6ea07154188b5d3c6c',
                       resolve_reason: null,
                       conference_bridge: { conference_url: '', conference_number: '' },
                       escalation_policy: {

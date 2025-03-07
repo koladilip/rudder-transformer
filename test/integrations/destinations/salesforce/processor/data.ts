@@ -1025,7 +1025,7 @@ export const data = [
           {
             destination: {
               Config: {
-                ***REMOVED***,
+                initialAccessToken: '7fiy1FKcO9sohsxq1v6J88sg',
                 password: 'dummyPassword2',
                 userName: 'test.c97-qvpd@force.com.test',
                 sandbox: true,
@@ -1153,7 +1153,7 @@ export const data = [
           {
             destination: {
               Config: {
-                ***REMOVED***,
+                initialAccessToken: '7fiy1FKcO9sohsxq1v6J88sg',
                 password: 'dummyPassword2',
                 userName: 'test.c97-qvpd@force.com.test',
                 sandbox: true,
@@ -1268,7 +1268,7 @@ export const data = [
           {
             destination: {
               Config: {
-                ***REMOVED***,
+                initialAccessToken: '7fiy1FKcO9sohsxq1v6J88sg',
                 password: 'dummyPassword2',
                 userName: 'test.c97-qvpd@force.com.test',
                 sandbox: true,
@@ -1384,7 +1384,7 @@ export const data = [
           {
             destination: {
               Config: {
-                ***REMOVED***,
+                initialAccessToken: '7fiy1FKcO9sohsxq1v6J88sg',
                 password: 'dummyPassword2',
                 userName: 'test.c97-qvpd@force.com.test',
                 sandbox: true,
@@ -1512,7 +1512,7 @@ export const data = [
           {
             destination: {
               Config: {
-                ***REMOVED***,
+                initialAccessToken: '7fiy1FKcO9sohsxq1v6J88sg',
                 password: 'dummyPassword2',
                 userName: 'test.c97-qvpd@force.com.test',
                 sandbox: true,

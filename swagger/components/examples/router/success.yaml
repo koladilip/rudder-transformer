@@ -21,7 +21,7 @@ files: {}
 userId: ''
 destination:
   Config:
-    ***REMOVED***
+    apiKey: '93AEyDLvfpbRxxx'
   ID: 'june123'
 metadata:
   userId: '<<>>123456<<>>123456'

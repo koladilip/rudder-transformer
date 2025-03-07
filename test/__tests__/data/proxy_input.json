@@ -10,7 +10,7 @@
     "body": {
       "FORM": {},
       "JSON": {
-        "***REMOVED***,
+        "api_key": "c9d8a13b8bcab46a547f7be5200c483d",
         "events": [
           {
             "app_name": "Rudder-CleverTap_Example",
@@ -54,7 +54,7 @@
     "body": {
       "FORM": {},
       "JSON": {
-        "***REMOVED***,
+        "api_key": "c9d8a13b8bcab46a547f7be5200c483d",
         "events": [
           {
             "app_name": "Rudder-CleverTap_Example",
@@ -98,7 +98,7 @@
     "body": {
       "FORM": {},
       "JSON": {
-        "***REMOVED***,
+        "api_key": "c9d8a13b8bcab46a547f7be5200c483d",
         "events": [
           {
             "app_name": "Rudder-CleverTap_Example",
@@ -142,7 +142,7 @@
     "body": {
       "FORM": {},
       "JSON": {
-        "***REMOVED***,
+        "api_key": "c9d8a13b8bcab46a547f7be5200c483d",
         "events": [
           {
             "app_name": "Rudder-CleverTap_Example",
@@ -186,7 +186,7 @@
     "body": {
       "FORM": {},
       "JSON": {
-        "***REMOVED***,
+        "api_key": "c9d8a13b8bcab46a547f7be5200c483d",
         "events": [
           {
             "app_name": "Rudder-CleverTap_Example",
@@ -230,7 +230,7 @@
     "body": {
       "FORM": {},
       "JSON": {
-        "***REMOVED***,
+        "api_key": "c9d8a13b8bcab46a547f7be5200c483d",
         "events": [
           {
             "app_name": "Rudder-CleverTap_Example",

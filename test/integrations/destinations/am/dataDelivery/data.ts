@@ -23,7 +23,7 @@ export const data = [
           body: {
             FORM: {},
             JSON: {
-              ***REMOVED***,
+              api_key: 'c9d8a13b8bcab46a547f7be5200c483d',
               events: [
                 {
                   app_name: 'Rudder-CleverTap_Example',
@@ -109,7 +109,7 @@ export const data = [
           body: {
             FORM: {},
             JSON: {
-              ***REMOVED***,
+              api_key: 'c9d8a13b8bcab46a547f7be5200c483d',
               events: [
                 {
                   app_name: 'Rudder-CleverTap_Example',
@@ -205,7 +205,7 @@ export const data = [
           body: {
             FORM: {},
             JSON: {
-              ***REMOVED***,
+              api_key: 'c9d8a13b8bcab46a547f7be5200c483d',
               events: [
                 {
                   app_name: 'Rudder-CleverTap_Example',
@@ -274,7 +274,7 @@ export const data = [
           {
             asymmetricMatch: (actual) => {
               const expected = {
-                ***REMOVED***,
+                api_key: 'c9d8a13b8bcab46a547f7be5200c483d',
                 events: [
                   {
                     app_name: 'Rudder-CleverTap_Example',
@@ -335,7 +335,7 @@ export const data = [
           body: {
             FORM: {},
             JSON: {
-              ***REMOVED***,
+              api_key: 'c9d8a13b8bcab46a547f7be5200c483d',
               events: [
                 {
                   app_name: 'Rudder-CleverTap_Example',
@@ -417,7 +417,7 @@ export const data = [
           body: {
             FORM: {},
             JSON: {
-              ***REMOVED***,
+              api_key: 'c9d8a13b8bcab46a547f7be5200c483d',
               events: [
                 {
                   app_name: 'Rudder-CleverTap_Example',
@@ -499,7 +499,7 @@ export const data = [
           body: {
             FORM: {},
             JSON: {
-              ***REMOVED***,
+              api_key: 'c9d8a13b8bcab46a547f7be5200c483d',
               events: [
                 {
                   app_name: 'Rudder-CleverTap_Example',

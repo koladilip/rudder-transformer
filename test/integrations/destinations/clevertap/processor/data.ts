@@ -2986,7 +2986,7 @@ export const data = [
                 All: true,
                 clevertap: {
                   deviceTokenType: 'chrome',
-                  chromeKeys: { ***REMOVED*** },
+                  chromeKeys: { auth: '5I2Bu2oKdyy9CwL8QVF0NQ==' },
                 },
               },
               originalTimestamp: '2021-05-24T08:53:37.929Z',
@@ -3057,7 +3057,7 @@ export const data = [
                         id: 'dR7jSUNlQ_qr_maG7Qd4R-:APA91bEuIZUlyF2Or7FzDp9slk2LTVoUIucV4hL7dvUqJzl6yWAfIFTBaU2uec9broasHAHAvga9ha1tszSEJobuAC-Zbh6l3DoXO4vnSrN4LcllybmGr_lIw5k8CgFoNuvSb8BWEb90',
                         type: 'chrome',
                         keys: {
-                          ***REMOVED***,
+                          auth: '5I2Bu2oKdyy9CwL8QVF0NQ==',
                         },
                       },
                       objectId: 'f54bb572361c4fd1',

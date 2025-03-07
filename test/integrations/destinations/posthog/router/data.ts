@@ -12,7 +12,7 @@ export const data = [
             {
               destination: {
                 Config: {
-                  ***REMOVED***,
+                  teamApiKey: 'K_HlByO3IE73-Tz4ch1LNDs0JGdwbknNGolFc4HdoAE',
                   yourInstance: 'https://app.posthog.com/',
                 },
               },
@@ -93,7 +93,7 @@ export const data = [
                     },
                     timestamp: '2020-11-04T13:21:09.712Z',
                     event: '$create_alias',
-                    ***REMOVED***,
+                    api_key: 'K_HlByO3IE73-Tz4ch1LNDs0JGdwbknNGolFc4HdoAE',
                     type: 'alias',
                   },
                   XML: {},
@@ -107,7 +107,7 @@ export const data = [
               statusCode: 200,
               destination: {
                 Config: {
-                  ***REMOVED***,
+                  teamApiKey: 'K_HlByO3IE73-Tz4ch1LNDs0JGdwbknNGolFc4HdoAE',
                   yourInstance: 'https://app.posthog.com/',
                 },
               },
@@ -129,7 +129,7 @@ export const data = [
           input: [
             {
               destination: {
-                Config: { ***REMOVED*** },
+                Config: { teamApiKey: 'K_HlByO3IE73-Tz4ch1LNDs0JGdwbknNGolFc4HdoAE' },
               },
               metadata: { jobId: 2, userId: 'u1' },
               message: {
@@ -271,7 +271,7 @@ export const data = [
                       win_amount: 0,
                     },
                     timestamp: '2020-11-04T13:21:09.712Z',
-                    ***REMOVED***,
+                    api_key: 'K_HlByO3IE73-Tz4ch1LNDs0JGdwbknNGolFc4HdoAE',
                     type: 'capture',
                   },
                   XML: {},
@@ -284,7 +284,7 @@ export const data = [
               batched: false,
               statusCode: 200,
               destination: {
-                Config: { ***REMOVED*** },
+                Config: { teamApiKey: 'K_HlByO3IE73-Tz4ch1LNDs0JGdwbknNGolFc4HdoAE' },
               },
             },
           ],

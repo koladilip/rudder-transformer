@@ -18,7 +18,7 @@ destination:
     ID: '1s0w2bMAleYngscZRgH1Exx'
     Name: 'abc_tag'
   Config:
-    ***REMOVED***
+    apiKey: '93AEyDLvfpbRxx12'
     ID: 'june123'
 batched: false
 statusCode: 400

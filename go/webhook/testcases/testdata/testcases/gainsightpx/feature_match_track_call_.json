@@ -87,7 +87,7 @@
         "event": {
           "eventType": "FEATURE_MATCH",
           "eventId": "ae1e5538-1736-4088-86d1-e90a10ffe901-05951b40-944f-4052-9a4a-51c74683f658",
-          "***REMOVED***,
+          "propertyKey": "AP-8MF5LPSWUBFW-2-1",
           "date": 1665582808376,
           "sessionId": "AP-8MF5LPSWUBFW-2-1601303023809-98881162",
           "globalContext": {
@@ -151,7 +151,7 @@
         },
         "type": "track",
         "properties": {
-          "***REMOVED***,
+          "propertyKey": "AP-8MF5LPSWUBFW-2-1",
           "globalContext": {
             "role": "Admin"
           },

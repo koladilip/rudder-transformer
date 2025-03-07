@@ -46,7 +46,7 @@ export const data = [
               metadata: { jobId: 2, userId: 'u1' },
               destination: {
                 Config: {
-                  ***REMOVED***,
+                  devKey: 'ef1d42390426e3f7c90ac78272e74344',
                   androidAppId: 'com.rudderlabs.javascript',
                 },
                 Enabled: true,
@@ -88,7 +88,7 @@ export const data = [
               metadata: { jobId: 3, userId: 'u1' },
               destination: {
                 Config: {
-                  ***REMOVED***,
+                  devKey: 'ef1d42390426e3f7c90ac78272e74344',
                   androidAppId: 'com.rudderlabs.javascript',
                 },
                 Enabled: true,
@@ -131,7 +131,7 @@ export const data = [
               metadata: { jobId: 4, userId: 'u1' },
               destination: {
                 Config: {
-                  ***REMOVED***,
+                  devKey: 'ef1d42390426e3f7c90ac78272e74344',
                   sharingFilter: 'hey',
                   androidAppId: 'com.rudderlabs.javascript',
                 },
@@ -156,7 +156,7 @@ export const data = [
                 endpoint: 'https://api2.appsflyer.com/inappevent/com.rudderlabs.javascript',
                 headers: {
                   'Content-Type': 'application/json',
-                  ***REMOVED***,
+                  authentication: 'ef1d42390426e3f7c90ac78272e74344',
                 },
                 method: 'POST',
                 params: {},
@@ -188,7 +188,7 @@ export const data = [
               statusCode: 200,
               destination: {
                 Config: {
-                  ***REMOVED***,
+                  devKey: 'ef1d42390426e3f7c90ac78272e74344',
                   androidAppId: 'com.rudderlabs.javascript',
                 },
                 Enabled: true,
@@ -201,7 +201,7 @@ export const data = [
                 endpoint: 'https://api2.appsflyer.com/inappevent/com.rudderlabs.javascript',
                 headers: {
                   'Content-Type': 'application/json',
-                  ***REMOVED***,
+                  authentication: 'ef1d42390426e3f7c90ac78272e74344',
                 },
                 params: {},
                 method: 'POST',
@@ -232,7 +232,7 @@ export const data = [
               statusCode: 200,
               destination: {
                 Config: {
-                  ***REMOVED***,
+                  devKey: 'ef1d42390426e3f7c90ac78272e74344',
                   androidAppId: 'com.rudderlabs.javascript',
                 },
                 Enabled: true,
@@ -245,7 +245,7 @@ export const data = [
                 endpoint: 'https://api2.appsflyer.com/inappevent/com.rudderlabs.javascript',
                 headers: {
                   'Content-Type': 'application/json',
-                  ***REMOVED***,
+                  authentication: 'ef1d42390426e3f7c90ac78272e74344',
                 },
                 method: 'POST',
                 params: {},
@@ -278,7 +278,7 @@ export const data = [
               statusCode: 200,
               destination: {
                 Config: {
-                  ***REMOVED***,
+                  devKey: 'ef1d42390426e3f7c90ac78272e74344',
                   sharingFilter: 'hey',
                   androidAppId: 'com.rudderlabs.javascript',
                 },

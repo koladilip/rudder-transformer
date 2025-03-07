@@ -87,7 +87,7 @@ export const data = [
                 event: {
                   eventType: 'SIGN_UP',
                   eventId: '1283c08b-f290-4bc4-9deb-75c7867d69ee',
-                  ***REMOVED***,
+                  propertyKey: 'AP-EOXPSEZGC5LA-2-1',
                   date: 1665582808376,
                   sessionId: 'AP-EOXPSEZGC5LA-2-1665582441084-16821368',
                   globalContext: {},
@@ -244,7 +244,7 @@ export const data = [
                 event: {
                   eventType: 'CUSTOM',
                   eventId: 'df58cbd6-2736-4f8a-ad26-6049eac2e150',
-                  ***REMOVED***,
+                  propertyKey: 'AP-EOXPSEZGC5LA-2-1',
                   date: 1665656881448,
                   sessionId: 'AP-EOXPSEZGC5LA-2-1665656622955-48127533',
                   globalContext: {},
@@ -314,7 +314,7 @@ export const data = [
                   integrations: { GAINSIGHTPX: false },
                   type: 'track',
                   properties: {
-                    ***REMOVED***,
+                    propertyKey: 'AP-EOXPSEZGC5LA-2-1',
                     'Audience Size': 5000,
                     name: 'TESTing TRACK CALL FIRST',
                     'Launched date': 1520532660000,
@@ -423,7 +423,7 @@ export const data = [
                 event: {
                   eventType: 'FEEDBACK',
                   eventId: 'd007bd76-decb-4a77-8456-d84fb15c6a83',
-                  ***REMOVED***,
+                  propertyKey: 'AP-E9VUBBLZ6BIS-2-1',
                   date: 1665415753621,
                   sessionId: 'AP-E9VUBBLZ6BIS-2-1665415678379-45445457',
                   globalContext: null,
@@ -489,7 +489,7 @@ export const data = [
                   integrations: { GAINSIGHTPX: false },
                   type: 'track',
                   properties: {
-                    ***REMOVED***,
+                    propertyKey: 'AP-E9VUBBLZ6BIS-2-1',
                     feedback: {
                       labels: ['492120f5-3573-11ec-bef0-42010a800545'],
                       description: 'feedback body',
@@ -600,7 +600,7 @@ export const data = [
                   eventType: 'FEATURE_MATCH',
                   eventId:
                     'ae1e5538-1736-4088-86d1-e90a10ffe901-05951b40-944f-4052-9a4a-51c74683f658',
-                  ***REMOVED***,
+                  propertyKey: 'AP-8MF5LPSWUBFW-2-1',
                   date: 1665582808376,
                   sessionId: 'AP-8MF5LPSWUBFW-2-1601303023809-98881162',
                   globalContext: { role: 'Admin' },
@@ -660,7 +660,7 @@ export const data = [
                   integrations: { GAINSIGHTPX: false },
                   type: 'track',
                   properties: {
-                    ***REMOVED***,
+                    propertyKey: 'AP-8MF5LPSWUBFW-2-1',
                     globalContext: { role: 'Admin' },
                     featureId: '05951b40-944f-4052-9a4a-51c74683f658',
                   },
@@ -764,7 +764,7 @@ export const data = [
                 event: {
                   eventType: 'SEGMENT',
                   eventId: 'ddb9ca94-beb1-449c-bdcd-b53190f8e784',
-                  ***REMOVED***,
+                  propertyKey: 'AP-8MF5LPSWUBFW-2-1',
                   date: 1665582808376,
                   sessionId: 'AP-8MF5LPSWUBFW-2-1601303023809-98881162',
                   globalContext: { role: 'Admin' },
@@ -825,7 +825,7 @@ export const data = [
                   integrations: { GAINSIGHTPX: false },
                   type: 'track',
                   properties: {
-                    ***REMOVED***,
+                    propertyKey: 'AP-8MF5LPSWUBFW-2-1',
                     globalContext: { role: 'Admin' },
                     segmentId: 'e3ab2e48-24f9-4602-ab92-b9f1f4343845',
                   },
@@ -855,7 +855,7 @@ export const data = [
                 event: {
                   eventType: 'Unavailable',
                   eventId: 'ddb9ca94-beb1-449c-bdcd-b53190f8e784',
-                  ***REMOVED***,
+                  propertyKey: 'AP-8MF5LPSWUBFW-2-1',
                   date: 1601303075964,
                   sessionId: 'AP-8MF5LPSWUBFW-2-1601303023809-98881162',
                   globalContext: { role: 'Admin' },
@@ -981,7 +981,7 @@ export const data = [
                 event: {
                   eventType: 'SURVEY',
                   eventId: 'c9883e3b-05d4-4f96-8b9c-e2ce10430493',
-                  ***REMOVED***,
+                  propertyKey: 'AP-N6SV00EVMR1E-2-1',
                   date: 1601303075964,
                   sessionId: 'AP-N6SV00EVMR1E-2-1605265939566-23853426',
                   globalContext: { role: 'Admin' },
@@ -1060,7 +1060,7 @@ export const data = [
                   integrations: { GAINSIGHTPX: false },
                   type: 'track',
                   properties: {
-                    ***REMOVED***,
+                    propertyKey: 'AP-N6SV00EVMR1E-2-1',
                     globalContext: { role: 'Admin' },
                     engagementId: 'e5362226-75da-4ef6-999a-823727e3d7a7',
                     contentType: 'IN_APP_MULTIPLE_QUESTION_SURVEY',
@@ -1184,7 +1184,7 @@ export const data = [
                 event: {
                   eventType: 'SURVEY',
                   eventId: 'c9883e3b-05d4-4f96-8b9c-e2ce10430493',
-                  ***REMOVED***,
+                  propertyKey: 'AP-N6SV00EVMR1E-2-1',
                   date: 1601303075964,
                   sessionId: 'AP-N6SV00EVMR1E-2-1605265939566-23853426',
                   globalContext: { role: 'Admin' },
@@ -1262,7 +1262,7 @@ export const data = [
                   integrations: { GAINSIGHTPX: false },
                   type: 'track',
                   properties: {
-                    ***REMOVED***,
+                    propertyKey: 'AP-N6SV00EVMR1E-2-1',
                     globalContext: { role: 'Admin' },
                     engagementId: 'e5362226-75da-4ef6-999a-823727e3d7a7',
                     contentType: 'IN_APP_MULTIPLE_QUESTION_SURVEY',
@@ -1383,7 +1383,7 @@ export const data = [
                 event: {
                   eventType: 'ENGAGEMENT',
                   eventId: '6494e73a-976b-4ee5-b8a8-de9effff7e80',
-                  ***REMOVED***,
+                  propertyKey: 'AP-N6SV00EVMR1E-2-1',
                   date: 1605262539389,
                   sessionId: 'AP-N6SV00EVMR1E-2-1605262502068-24197555',
                   globalContext: { role: 'Admin' },
@@ -1450,7 +1450,7 @@ export const data = [
                   integrations: { GAINSIGHTPX: false },
                   type: 'track',
                   properties: {
-                    ***REMOVED***,
+                    propertyKey: 'AP-N6SV00EVMR1E-2-1',
                     engagementId: '83c30d4e-88c3-4054-a0fa-33451a6ea7fc',
                     contentType: 'IN_APP_DIALOG',
                     engagementType: 'Dialog',
@@ -1559,13 +1559,13 @@ export const data = [
                 event: {
                   eventType: 'SEGMENT_IO',
                   eventId: 'ajs-next-69810a17571dc115ccead5281cc3fb7d',
-                  ***REMOVED***,
+                  propertyKey: 'AP-EOXPSEZGC5LA-2-1',
                   date: 1666687235178,
                   sessionId: '31a524fa-1490-48db-9600-adfb1fa95333',
                   globalContext: {},
                   userType: 'USER',
                   segmentIOEvent: {
-                    ***REMOVED***,
+                    pxPropertyKey: 'AP-EOXPSEZGC5LA-2',
                     type: 'group',
                     userId: '1001',
                     anonymousId: 'a4303a13-eb10-46d8-8935-d787daf1cfbd',
@@ -1643,8 +1643,8 @@ export const data = [
                   integrations: { GAINSIGHTPX: false },
                   type: 'track',
                   properties: {
-                    ***REMOVED***,
-                    ***REMOVED***,
+                    propertyKey: 'AP-EOXPSEZGC5LA-2-1',
+                    pxPropertyKey: 'AP-EOXPSEZGC5LA-2',
                     type: 'group',
                     userId: '1001',
                     anonymousId: 'a4303a13-eb10-46d8-8935-d787daf1cfbd',

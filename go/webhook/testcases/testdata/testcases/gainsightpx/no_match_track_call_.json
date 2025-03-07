@@ -7,7 +7,7 @@
         "event": {
           "eventType": "Unavailable",
           "eventId": "ddb9ca94-beb1-449c-bdcd-b53190f8e784",
-          "***REMOVED***,
+          "propertyKey": "AP-8MF5LPSWUBFW-2-1",
           "date": 1601303075964,
           "sessionId": "AP-8MF5LPSWUBFW-2-1601303023809-98881162",
           "globalContext": {
@@ -34,7 +34,7 @@
         "event": {
           "eventType": "Unavailable",
           "eventId": "ddb9ca94-beb1-449c-bdcd-b53190f8e784",
-          "***REMOVED***,
+          "propertyKey": "AP-8MF5LPSWUBFW-2-1",
           "date": 1601303075964,
           "sessionId": "AP-8MF5LPSWUBFW-2-1601303023809-98881162",
           "globalContext": {

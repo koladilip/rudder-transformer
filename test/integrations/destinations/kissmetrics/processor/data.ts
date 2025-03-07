@@ -11,7 +11,7 @@ export const data = [
           {
             destination: {
               Config: {
-                ***REMOVED***,
+                apiKey: '9432f11f70f8ce386f5110c8c924b3ec4f825256',
                 prefixProperties: true,
                 useNativeSDK: false,
               },
@@ -142,7 +142,7 @@ export const data = [
           {
             destination: {
               Config: {
-                ***REMOVED***,
+                apiKey: '9432f11f70f8ce386f5110c8c924b3ec4f825256',
                 prefixProperties: true,
                 useNativeSDK: false,
               },
@@ -275,7 +275,7 @@ export const data = [
           {
             destination: {
               Config: {
-                ***REMOVED***,
+                apiKey: '9432f11f70f8ce386f5110c8c924b3ec4f825256',
                 prefixProperties: true,
                 useNativeSDK: false,
               },
@@ -402,7 +402,7 @@ export const data = [
           {
             destination: {
               Config: {
-                ***REMOVED***,
+                apiKey: '9432f11f70f8ce386f5110c8c924b3ec4f825256',
                 prefixProperties: true,
                 useNativeSDK: false,
               },
@@ -534,7 +534,7 @@ export const data = [
           {
             destination: {
               Config: {
-                ***REMOVED***,
+                apiKey: '9432f11f70f8ce386f5110c8c924b3ec4f825256',
                 prefixProperties: true,
                 useNativeSDK: false,
               },
@@ -657,7 +657,7 @@ export const data = [
           {
             destination: {
               Config: {
-                ***REMOVED***,
+                apiKey: '9432f11f70f8ce386f5110c8c924b3ec4f825256',
                 prefixProperties: true,
                 useNativeSDK: false,
               },

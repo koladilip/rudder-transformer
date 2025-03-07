@@ -10,7 +10,7 @@ export const data = [
           {
             request: {
               body: JSON.stringify({
-                ***REMOVED***,
+                token: 'Jhj5dZrVaK7ZwHHjRyZWjbDl',
                 challenge: '3eZbrw1aB10FEMAGAZd4FyFQ',
                 type: 'url_verification',
               }),
@@ -170,7 +170,7 @@ export const data = [
                 type: 'event_callback',
                 event_id: 'EvY5JTJ0NG5',
                 event_time: 1709441309,
-                ***REMOVED***,
+                token: 'REm2987dqtpi72Lq',
                 team_id: 'T0GFJL5J7',
                 context_team_id: 'T01gqtPIL5J7',
                 context_enterprise_id: null,

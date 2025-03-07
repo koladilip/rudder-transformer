@@ -23,7 +23,7 @@
   },
   "https://commander.user.com/api/public/users/search/?email=test@rudderstack.com": {
     "id": 59,
-    "***REMOVED***,
+    "user_key": "ctlfkj37dbag",
     "name": "test rudderstack",
     "email": "test@rudderstack.com",
     "gender": "male",

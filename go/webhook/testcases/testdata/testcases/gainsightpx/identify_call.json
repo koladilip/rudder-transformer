@@ -87,7 +87,7 @@
         "event": {
           "eventType": "SIGN_UP",
           "eventId": "1283c08b-f290-4bc4-9deb-75c7867d69ee",
-          "***REMOVED***,
+          "propertyKey": "AP-EOXPSEZGC5LA-2-1",
           "date": 1665582808376,
           "sessionId": "AP-EOXPSEZGC5LA-2-1665582441084-16821368",
           "globalContext": {},

@@ -427,7 +427,7 @@ export const data = [
                 ID: '2N9UakqKF0D35wfzSeofIxPdL8X',
                 Name: 'Braze-Test',
                 Config: {
-                  ***REMOVED***,
+                  appKey: '0e5440c3-226b-45d0-91b5-c64da56cde16',
                   blacklistedEvents: [],
                   dataCenter: 'US-03',
                   enableNestedArrayOperations: false,
@@ -496,7 +496,7 @@ export const data = [
                 ID: '2N9UakqKF0D35wfzSeofIxPdL8X',
                 Name: 'Braze-Test',
                 Config: {
-                  ***REMOVED***,
+                  appKey: '0e5440c3-226b-45d0-91b5-c64da56cde16',
                   blacklistedEvents: [],
                   dataCenter: 'US-03',
                   enableNestedArrayOperations: false,
@@ -565,7 +565,7 @@ export const data = [
                 ID: '2N9UakqKF0D35wfzSeofIxPdL8X',
                 Name: 'Braze-Test',
                 Config: {
-                  ***REMOVED***,
+                  appKey: '0e5440c3-226b-45d0-91b5-c64da56cde16',
                   blacklistedEvents: [],
                   dataCenter: 'US-03',
                   enableNestedArrayOperations: false,
@@ -618,7 +618,7 @@ export const data = [
                 ID: '2N9UakqKF0D35wfzSeofIxPdL8X',
                 Name: 'Braze-Test',
                 Config: {
-                  ***REMOVED***,
+                  appKey: '0e5440c3-226b-45d0-91b5-c64da56cde16',
                   blacklistedEvents: [],
                   dataCenter: 'US-03',
                   enableNestedArrayOperations: false,
@@ -671,7 +671,7 @@ export const data = [
                 ID: '2N9UakqKF0D35wfzSeofIxPdL8X',
                 Name: 'Braze-Test',
                 Config: {
-                  ***REMOVED***,
+                  appKey: '0e5440c3-226b-45d0-91b5-c64da56cde16',
                   blacklistedEvents: [],
                   dataCenter: 'US-03',
                   enableNestedArrayOperations: false,
@@ -823,7 +823,7 @@ export const data = [
                 ID: '2N9UakqKF0D35wfzSeofIxPdL8X',
                 Name: 'Braze-Test',
                 Config: {
-                  ***REMOVED***,
+                  appKey: '0e5440c3-226b-45d0-91b5-c64da56cde16',
                   blacklistedEvents: [],
                   dataCenter: 'US-03',
                   enableNestedArrayOperations: false,
@@ -858,7 +858,7 @@ export const data = [
                 ID: '2N9UakqKF0D35wfzSeofIxPdL8X',
                 Name: 'Braze-Test',
                 Config: {
-                  ***REMOVED***,
+                  appKey: '0e5440c3-226b-45d0-91b5-c64da56cde16',
                   blacklistedEvents: [],
                   dataCenter: 'US-03',
                   enableNestedArrayOperations: false,

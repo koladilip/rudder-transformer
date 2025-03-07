@@ -87,13 +87,13 @@
         "event": {
           "eventType": "SEGMENT_IO",
           "eventId": "ajs-next-69810a17571dc115ccead5281cc3fb7d",
-          "***REMOVED***,
+          "propertyKey": "AP-EOXPSEZGC5LA-2-1",
           "date": 1666687235178,
           "sessionId": "31a524fa-1490-48db-9600-adfb1fa95333",
           "globalContext": {},
           "userType": "USER",
           "segmentIOEvent": {
-            "***REMOVED***,
+            "pxPropertyKey": "AP-EOXPSEZGC5LA-2",
             "type": "group",
             "userId": "1001",
             "anonymousId": "a4303a13-eb10-46d8-8935-d787daf1cfbd",
@@ -177,8 +177,8 @@
         },
         "type": "track",
         "properties": {
-          "***REMOVED***,
-          "***REMOVED***,
+          "propertyKey": "AP-EOXPSEZGC5LA-2-1",
+          "pxPropertyKey": "AP-EOXPSEZGC5LA-2",
           "type": "group",
           "userId": "1001",
           "anonymousId": "a4303a13-eb10-46d8-8935-d787daf1cfbd",

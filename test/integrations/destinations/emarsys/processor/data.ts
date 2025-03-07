@@ -14,7 +14,7 @@ const comonHeader = {
   'Content-Type': 'application/json',
 
   'X-WSSE':
-    'UsernameToken Username="dummy", ***REMOVED***, Nonce="5398e214ae99c2e50afb709a3bc423f9", Created="2023-10-14T00:00:00.000Z"',
+    'UsernameToken Username="dummy", PasswordDigest="MjEzMDY5ZmI3NjMwNzE1N2M1ZTI5MWMzMzI3ODQxNDU2YWM4NTI3YQ==", Nonce="5398e214ae99c2e50afb709a3bc423f9", Created="2023-10-14T00:00:00.000Z"',
 };
 
 export const data = [

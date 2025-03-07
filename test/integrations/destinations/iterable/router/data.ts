@@ -63,7 +63,7 @@ export const data: RouterTestData[] = [
                   Config: {},
                 },
                 Config: {
-                  ***REMOVED***,
+                  apiKey: '583af2f8-15ba-49c0-8511-76383e7de07e',
                   hubID: '22066036',
                 },
                 Enabled: true,
@@ -121,7 +121,7 @@ export const data: RouterTestData[] = [
                   Config: {},
                 },
                 Config: {
-                  ***REMOVED***,
+                  apiKey: '583af2f8-15ba-49c0-8511-76383e7de07e',
                   hubID: '22066036',
                 },
                 Enabled: true,
@@ -151,7 +151,7 @@ export const data: RouterTestData[] = [
                 endpoint: 'https://api.iterable.com/api/catalogs/test-ruchira/items',
                 headers: {
                   'Content-Type': 'application/json',
-                  ***REMOVED***,
+                  api_key: '583af2f8-15ba-49c0-8511-76383e7de07e',
                 },
                 params: {},
                 body: {
@@ -186,7 +186,7 @@ export const data: RouterTestData[] = [
                   Config: {},
                 },
                 Config: {
-                  ***REMOVED***,
+                  apiKey: '583af2f8-15ba-49c0-8511-76383e7de07e',
                   hubID: '22066036',
                 },
                 Enabled: true,
@@ -251,7 +251,7 @@ export const data: RouterTestData[] = [
                   Config: {},
                 },
                 Config: {
-                  ***REMOVED***,
+                  apiKey: '62d12498c37c4fd8a1a546c2d35c2f60',
                   mapToSingleEvent: false,
                   trackAllPages: true,
                   trackCategorisedPages: false,
@@ -307,7 +307,7 @@ export const data: RouterTestData[] = [
                   Config: {},
                 },
                 Config: {
-                  ***REMOVED***,
+                  apiKey: '62d12498c37c4fd8a1a546c2d35c2f60',
                   mapToSingleEvent: false,
                   trackAllPages: true,
                   trackCategorisedPages: false,
@@ -577,7 +577,7 @@ export const data: RouterTestData[] = [
                   Config: {},
                 },
                 Config: {
-                  ***REMOVED***,
+                  apiKey: '62d12498c37c4fd8a1a546c2d35c2f60',
                   dataCenter: 'USDC',
                   mapToSingleEvent: false,
                   trackAllPages: true,
@@ -626,7 +626,7 @@ export const data: RouterTestData[] = [
                   Config: {},
                 },
                 Config: {
-                  ***REMOVED***,
+                  apiKey: '62d12498c37c4fd8a1a546c2d35c2f60',
                   dataCenter: 'USDC',
                   mapToSingleEvent: false,
                   trackAllPages: true,
@@ -677,7 +677,7 @@ export const data: RouterTestData[] = [
                   Config: {},
                 },
                 Config: {
-                  ***REMOVED***,
+                  apiKey: '62d12498c37c4fd8a1a546c2d35c2f60',
                   dataCenter: 'USDC',
                   mapToSingleEvent: false,
                   trackAllPages: false,
@@ -711,7 +711,7 @@ export const data: RouterTestData[] = [
                 endpoint: 'https://api.iterable.com/api/events/trackBulk',
                 headers: {
                   'Content-Type': 'application/json',
-                  ***REMOVED***,
+                  api_key: '62d12498c37c4fd8a1a546c2d35c2f60',
                 },
                 params: {},
                 body: {
@@ -747,7 +747,7 @@ export const data: RouterTestData[] = [
                   Config: {},
                 },
                 Config: {
-                  ***REMOVED***,
+                  apiKey: '62d12498c37c4fd8a1a546c2d35c2f60',
                   mapToSingleEvent: false,
                   trackAllPages: true,
                   trackCategorisedPages: false,
@@ -770,7 +770,7 @@ export const data: RouterTestData[] = [
                 endpoint: 'https://api.iterable.com/api/users/bulkUpdate',
                 headers: {
                   'Content-Type': 'application/json',
-                  ***REMOVED***,
+                  api_key: '62d12498c37c4fd8a1a546c2d35c2f60',
                 },
                 params: {},
                 body: {
@@ -808,7 +808,7 @@ export const data: RouterTestData[] = [
                   Config: {},
                 },
                 Config: {
-                  ***REMOVED***,
+                  apiKey: '62d12498c37c4fd8a1a546c2d35c2f60',
                   mapToSingleEvent: false,
                   trackAllPages: true,
                   trackCategorisedPages: false,
@@ -895,7 +895,7 @@ export const data: RouterTestData[] = [
                 endpoint: 'https://api.iterable.com/api/commerce/updateCart',
                 headers: {
                   'Content-Type': 'application/json',
-                  ***REMOVED***,
+                  api_key: '62d12498c37c4fd8a1a546c2d35c2f60',
                 },
                 params: {},
                 body: {
@@ -950,7 +950,7 @@ export const data: RouterTestData[] = [
                   Config: {},
                 },
                 Config: {
-                  ***REMOVED***,
+                  apiKey: '62d12498c37c4fd8a1a546c2d35c2f60',
                   dataCenter: 'USDC',
                   mapToSingleEvent: false,
                   trackAllPages: true,
@@ -974,7 +974,7 @@ export const data: RouterTestData[] = [
                 endpoint: 'https://api.iterable.com/api/events/trackBulk',
                 headers: {
                   'Content-Type': 'application/json',
-                  ***REMOVED***,
+                  api_key: '62d12498c37c4fd8a1a546c2d35c2f60',
                 },
                 params: {},
                 body: {
@@ -1010,7 +1010,7 @@ export const data: RouterTestData[] = [
                   Config: {},
                 },
                 Config: {
-                  ***REMOVED***,
+                  apiKey: '62d12498c37c4fd8a1a546c2d35c2f60',
                   dataCenter: 'USDC',
                   mapToSingleEvent: false,
                   trackAllPages: true,
@@ -1034,7 +1034,7 @@ export const data: RouterTestData[] = [
                 endpoint: 'https://api.iterable.com/api/users/updateEmail',
                 headers: {
                   'Content-Type': 'application/json',
-                  ***REMOVED***,
+                  api_key: '62d12498c37c4fd8a1a546c2d35c2f60',
                 },
                 params: {},
                 body: {
@@ -1060,7 +1060,7 @@ export const data: RouterTestData[] = [
                   Config: {},
                 },
                 Config: {
-                  ***REMOVED***,
+                  apiKey: '62d12498c37c4fd8a1a546c2d35c2f60',
                   dataCenter: 'USDC',
                   mapToSingleEvent: false,
                   trackAllPages: false,
@@ -1237,7 +1237,7 @@ export const data: RouterTestData[] = [
                   Config: {},
                 },
                 Config: {
-                  ***REMOVED***,
+                  apiKey: '583af2f8-15ba-49c0-8511-76383e7de07e',
                   dataCenter: 'EUDC',
                   hubID: '22066036',
                 },
@@ -1296,7 +1296,7 @@ export const data: RouterTestData[] = [
                   Config: {},
                 },
                 Config: {
-                  ***REMOVED***,
+                  apiKey: '583af2f8-15ba-49c0-8511-76383e7de07e',
                   dataCenter: 'EUDC',
                   hubID: '22066036',
                 },
@@ -1327,7 +1327,7 @@ export const data: RouterTestData[] = [
                 endpoint: 'https://api.eu.iterable.com/api/catalogs/test-ruchira/items',
                 headers: {
                   'Content-Type': 'application/json',
-                  ***REMOVED***,
+                  api_key: '583af2f8-15ba-49c0-8511-76383e7de07e',
                 },
                 params: {},
                 body: {
@@ -1362,7 +1362,7 @@ export const data: RouterTestData[] = [
                   Config: {},
                 },
                 Config: {
-                  ***REMOVED***,
+                  apiKey: '583af2f8-15ba-49c0-8511-76383e7de07e',
                   dataCenter: 'EUDC',
                   hubID: '22066036',
                 },
@@ -1402,7 +1402,7 @@ export const data: RouterTestData[] = [
                 endpoint: 'https://api.eu.iterable.com/api/catalogs/test-ruchira/items',
                 headers: {
                   'Content-Type': 'application/json',
-                  ***REMOVED***,
+                  api_key: '583af2f8-15ba-49c0-8511-76383e7de07e',
                 },
                 params: {},
                 body: {
@@ -1436,7 +1436,7 @@ export const data: RouterTestData[] = [
                   Config: {},
                 },
                 Config: {
-                  ***REMOVED***,
+                  apiKey: '583af2f8-15ba-49c0-8511-76383e7de07e',
                   hubID: '22066036',
                 },
                 Enabled: true,
@@ -1474,7 +1474,7 @@ export const data: RouterTestData[] = [
                 files: {},
                 headers: {
                   'Content-Type': 'application/json',
-                  ***REMOVED***,
+                  api_key: '583af2f8-15ba-49c0-8511-76383e7de07e',
                 },
                 method: 'POST',
                 params: {},
@@ -1483,7 +1483,7 @@ export const data: RouterTestData[] = [
               },
               destination: {
                 Config: {
-                  ***REMOVED***,
+                  apiKey: '583af2f8-15ba-49c0-8511-76383e7de07e',
                   hubID: '22066036',
                 },
                 DestinationDefinition: {

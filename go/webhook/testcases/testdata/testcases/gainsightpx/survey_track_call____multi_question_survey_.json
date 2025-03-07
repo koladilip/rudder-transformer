@@ -87,7 +87,7 @@
         "event": {
           "eventType": "SURVEY",
           "eventId": "c9883e3b-05d4-4f96-8b9c-e2ce10430493",
-          "***REMOVED***,
+          "propertyKey": "AP-N6SV00EVMR1E-2-1",
           "date": 1601303075964,
           "sessionId": "AP-N6SV00EVMR1E-2-1605265939566-23853426",
           "globalContext": {
@@ -169,7 +169,7 @@
         },
         "type": "track",
         "properties": {
-          "***REMOVED***,
+          "propertyKey": "AP-N6SV00EVMR1E-2-1",
           "globalContext": {
             "role": "Admin"
           },

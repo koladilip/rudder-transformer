@@ -27,7 +27,7 @@
             "html_url": "https://rudderlabs-com.pagerduty.com/incidents/Q3S7IX2U5KTCOY",
             "number": 2,
             "status": "triggered",
-            "***REMOVED***,
+            "incident_key": "faaecfc0aca04b6ea07154188b5d3c6c",
             "created_at": "2022-12-07T10:56:52Z",
             "title": "Server Crashed",
             "service": {
@@ -134,7 +134,7 @@
               }
             ],
             "created_at": "2022-12-07T10:56:52Z",
-            "***REMOVED***,
+            "incident_key": "faaecfc0aca04b6ea07154188b5d3c6c",
             "resolve_reason": null,
             "conference_bridge": null,
             "escalation_policy": {

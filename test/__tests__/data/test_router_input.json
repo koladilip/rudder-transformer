@@ -167,7 +167,7 @@
     "libraries": [],
     "destination": {
       "config": {
-        "***REMOVED***,
+        "appKey": "0e5440c3-226b-45d0-91b5-c64da56cde16",
         "restApiKey": "dummyApiKey",
         "dataCenter": "US-03",
         "useNativeSDK": {

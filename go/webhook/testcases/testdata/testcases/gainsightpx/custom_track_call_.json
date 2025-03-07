@@ -87,7 +87,7 @@
         "event": {
           "eventType": "CUSTOM",
           "eventId": "df58cbd6-2736-4f8a-ad26-6049eac2e150",
-          "***REMOVED***,
+          "propertyKey": "AP-EOXPSEZGC5LA-2-1",
           "date": 1665656881448,
           "sessionId": "AP-EOXPSEZGC5LA-2-1665656622955-48127533",
           "globalContext": {},
@@ -159,7 +159,7 @@
         },
         "type": "track",
         "properties": {
-          "***REMOVED***,
+          "propertyKey": "AP-EOXPSEZGC5LA-2-1",
           "Audience Size": 5000,
           "name": "TESTing TRACK CALL FIRST",
           "Launched date": 1520532660000,

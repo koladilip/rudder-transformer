@@ -31,7 +31,7 @@ export const pixelCheckoutStepsScenarios = [
                     provinceCode: null,
                     zip: null,
                   },
-                  ***REMOVED***,
+                  token: '5f7028e0bd5225c17b24bdaa0c09f914',
                   currencyCode: 'USD',
                   discountApplications: [],
                   discountsAmount: {
@@ -366,7 +366,7 @@ export const pixelCheckoutStepsScenarios = [
                             amount: 2759.8,
                             currencyCode: 'USD',
                           },
-                          ***REMOVED***,
+                          token: '5f7028e0bd5225c17b24bdaa0c09f914',
                           totalPrice: {
                             amount: 2759.8,
                             currencyCode: 'USD',
@@ -412,7 +412,7 @@ export const pixelCheckoutStepsScenarios = [
                       provinceCode: null,
                       zip: null,
                     },
-                    ***REMOVED***,
+                    token: '5f7028e0bd5225c17b24bdaa0c09f914',
                     currencyCode: 'USD',
                     discountApplications: [],
                     discountsAmount: {
@@ -601,7 +601,7 @@ export const pixelCheckoutStepsScenarios = [
                     provinceCode: null,
                     zip: null,
                   },
-                  ***REMOVED***,
+                  token: '5f7028e0bd5225c17b24bdaa0c09f914',
                   currencyCode: 'USD',
                   discountApplications: [],
                   discountsAmount: {
@@ -905,7 +905,7 @@ export const pixelCheckoutStepsScenarios = [
                             amount: 2759.8,
                             currencyCode: 'USD',
                           },
-                          ***REMOVED***,
+                          token: '5f7028e0bd5225c17b24bdaa0c09f914',
                           totalPrice: {
                             amount: 2759.8,
                             currencyCode: 'USD',
@@ -951,7 +951,7 @@ export const pixelCheckoutStepsScenarios = [
                       provinceCode: null,
                       zip: null,
                     },
-                    ***REMOVED***,
+                    token: '5f7028e0bd5225c17b24bdaa0c09f914',
                     currencyCode: 'USD',
                     discountApplications: [],
                     discountsAmount: {
@@ -1124,7 +1124,7 @@ export const pixelCheckoutStepsScenarios = [
                     provinceCode: null,
                     zip: null,
                   },
-                  ***REMOVED***,
+                  token: '5f7028e0bd5225c17b24bdaa0c09f914',
                   currencyCode: 'USD',
                   discountApplications: [],
                   discountsAmount: {
@@ -1459,7 +1459,7 @@ export const pixelCheckoutStepsScenarios = [
                             amount: 2759.8,
                             currencyCode: 'USD',
                           },
-                          ***REMOVED***,
+                          token: '5f7028e0bd5225c17b24bdaa0c09f914',
                           totalPrice: {
                             amount: 2759.8,
                             currencyCode: 'USD',
@@ -1505,7 +1505,7 @@ export const pixelCheckoutStepsScenarios = [
                       provinceCode: null,
                       zip: null,
                     },
-                    ***REMOVED***,
+                    token: '5f7028e0bd5225c17b24bdaa0c09f914',
                     currencyCode: 'USD',
                     discountApplications: [],
                     discountsAmount: {
@@ -1694,7 +1694,7 @@ export const pixelCheckoutStepsScenarios = [
                     provinceCode: null,
                     zip: null,
                   },
-                  ***REMOVED***,
+                  token: '5f7028e0bd5225c17b24bdaa0c09f914',
                   currencyCode: 'USD',
                   discountApplications: [],
                   discountsAmount: {
@@ -2029,7 +2029,7 @@ export const pixelCheckoutStepsScenarios = [
                             amount: 2759.8,
                             currencyCode: 'USD',
                           },
-                          ***REMOVED***,
+                          token: '5f7028e0bd5225c17b24bdaa0c09f914',
                           totalPrice: {
                             amount: 2759.8,
                             currencyCode: 'USD',
@@ -2075,7 +2075,7 @@ export const pixelCheckoutStepsScenarios = [
                       provinceCode: null,
                       zip: null,
                     },
-                    ***REMOVED***,
+                    token: '5f7028e0bd5225c17b24bdaa0c09f914',
                     currencyCode: 'USD',
                     discountApplications: [],
                     discountsAmount: {
